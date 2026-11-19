@@ -12,6 +12,16 @@ Can acoustic and linguistic representations, trained with **weak temporal superv
 
 ---
 
+## Documentation
+
+| Document | Description |
+|---|---|
+| [`docs/MASTER_REPORT.md`](docs/MASTER_REPORT.md) | **Full consolidated report** — original results + secondary analysis findings + discussion |
+| [`docs/PAPER_DRAFT.md`](docs/PAPER_DRAFT.md) | Academic paper draft |
+| [`analysis/README.md`](analysis/README.md) | Secondary analysis package guide |
+
+---
+
 ## Results Summary
 
 All numbers are on speaker-grouped held-out validation folds (no speaker appears in both train and val).
