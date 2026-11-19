@@ -1,0 +1,10 @@
+seed: 0
+sr: 16000
+segment_sec: 30
+asr: {model: small.en, keep_disfluencies: true}
+speech_encoder: microsoft/wavlm-base-plus   # frozen
+text_encoder: bert-base-uncased             # frozen
+model: {hidden: 64, dropout: 0.3}
+train: {epochs: 60, lr: 1.0e-3, weight_decay: 1.0e-2, lambda_rank: 0.5, margin: 0.0}
+cv: {n_splits: 5, n_seeds: 5}
+states: {k_range: [1, 2, 3, 4, 5, 6], n_bootstrap: 50}
