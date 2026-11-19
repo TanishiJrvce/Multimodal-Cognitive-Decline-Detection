@@ -2,8 +2,8 @@
 
 Ordering policy (conservative): only dementia-group recordings whose filename suffix is one of the
 documented time buckets (0 = after symptoms, 5 = 0-5y before, 10 = 5-10y before, 15 = 10-15y before)
-get a rank. Suffixes 1/2/3 (dementia) and all comparison-group suffixes are left UNRANKED because their
-meaning is not documented here. Ranks are marked order_basis='suffix_bucket_unverified' until the
+get a rank. A trailing second number (e.g. _5_2) is a clip index in the same bucket (equal rank, forms no pair).
+Other suffixes and all comparison-group suffixes are left UNRANKED. Ranks are marked order_basis='suffix_bucket_unverified' until the
 suffix->bucket mapping is verified against the metadata sheet.
 """
 import re
@@ -16,7 +16,9 @@ tr = pd.read_csv(raw / "train_dm.csv", sep="\t").assign(split="train")
 va = pd.read_csv(raw / "valid_dm.csv", sep="\t").assign(split="valid")
 m = pd.concat([tr, va], ignore_index=True)
 m["speaker"] = m.path.str.split("/").str[-2]
-m["suffix"] = m.file.str.extract(r"_(\d+)$")[0].astype(float)
+bc = m.file.str.extract(r"_(\d+)(?:_(\d+))?$")
+m["suffix"] = bc[0].astype(float)  # bucket (dementia: 0/5/10/15)
+m["clip"] = bc[1].astype(float)    # optional clip index within a bucket (e.g. _5_2); equal rank
 m["label"] = (m.label == "dementia").astype(int)  # 1 = dementia-associated, 0 = comparison
 assert not set(m[m.split == "train"].speaker) & set(m[m.split == "valid"].speaker)
 
