@@ -1,0 +1,37 @@
+{
+  "script": "07_train_joint_v1.py",
+  "branch": "V1-corrected",
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "pytorch": "2.6.0+cu124",
+  "sklearn": "1.8.0",
+  "device": "cuda",
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "n_folds": 5,
+  "lr": 0.0001,
+  "wd": 0.0001,
+  "max_epochs": 100,
+  "patience": 10,
+  "lambda_rank": 0.5,
+  "mod_drop_p": 0.2,
+  "quality_spearman_thresh": 0.5,
+  "feat_spearman_thresh": 0.9,
+  "asr_model": "UNKNOWN \u2014 not stored in transcript JSON; config declares small.en, script defaults medium.en",
+  "wavlm_model": "microsoft/wavlm-base-plus",
+  "bert_model": "bert-base-uncased",
+  "n_recordings": 275,
+  "n_speakers": 141,
+  "v1_fixes": [
+    "Modality masking decoupled: each stream zeroed only by its own key",
+    "Fold-local feature screening: fitted on outer-train only",
+    "Inner validation split for epoch selection",
+    "Same-bucket rank pairs excluded from training",
+    "Per-recording held-out predictions saved",
+    "Checkpoint includes scaler, feature indices, pair counts"
+  ]
+}
