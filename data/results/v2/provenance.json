@@ -1,0 +1,45 @@
+{
+  "protocol": "V2: fully train-local inner selection; explicit ranking batches",
+  "python": "3.12.14",
+  "torch": "2.15.0+cpu",
+  "numpy": "2.3.5",
+  "variants": [
+    "V_feat",
+    "V_audio",
+    "V_text",
+    "V_cls",
+    "V_joint"
+  ],
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "epochs": 100,
+  "patience": 10,
+  "device": "cpu",
+  "threads": 1,
+  "modality_dropout": 0.2,
+  "code_hashes": {
+    "scripts/07_train_joint_v2.py": "8c79d195846b06118f10ffd09ec750cbe270ca596d8b85093e4dea6876f83efc",
+    "src/mcd/protocol.py": "adcf876ce98914d407f0023f1b73b96034a9666e3a6f0e67920080c88a26b888",
+    "src/mcd/models.py": "b99ad9870b60c1aeb1a5a6c9f658ec8b6e36cbde1d5bfb97e8eec76472379037"
+  },
+  "input_hashes": {
+    "embeddings_bert.npy": "0655db6e4a02896cb3ff53b4e199e001a6daad38df69786055197ece55cbcf82",
+    "embeddings_index.csv": "46e3ea5331b76168864e1c8c96a04257561696416a797ee7c75ca61da6320e0c",
+    "embeddings_wavlm.npy": "6af48896fc7dfd0c12cc282210d49395d57df8ff031ee2575224446c4b2ac7c9",
+    "feature_list.json": "645656d9734d0ae818c62a5a40020d21cb5eb4960f80046e09bf8d2b19f11819",
+    "features_acoustic.csv": "c886c7ab78e1a22ddd4be02f5e44d5b1a73cdb21a6a02963c43b227f44fa7706",
+    "features_delta.csv": "eeb10b33cd991ae36fd7eedfab67132c33f3db2f4c75af0a3114cf866614438b",
+    "features_linguistic.csv": "78202615c3ad0d72aa0d9bb8fc49f37d706a250f3b932148eca8c21b72098d27",
+    "features_screened.csv": "17894a12ab3863e0bc5d29f6e521448ecfa909f1b76f88a5da2eddd223fa065b",
+    "manifest.csv": "fd2564a1d54d03eb583a8f42d0737cd341bddfb785a29bdfc2874abd268ac294",
+    "quality.csv": "eaba56989ead2ff9379a81cdd06aae4903fae7ae8bc4c3c5b3882dd285f827c5",
+    "recording_order.csv": "2e57d37e5a2ed863f8ed803a21e260cd75a6eeb4f58fb3745928bf3c7d21c19c"
+  },
+  "asr_provenance": "Unresolved fixed upstream transcripts; no ASR regeneration",
+  "started": 1795122700.04608
+}

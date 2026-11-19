@@ -1,0 +1,2 @@
+n_rows,cross_model_oof_copies,fraction,status
+5500,5500,1.0,NOT same-model training scores

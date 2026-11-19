@@ -1,0 +1,276 @@
+file,speaker,label,seed,fold,experiment,model_id,scored_by_model,split,group_prob,prog_score
+daningram_15,Dan Ingram,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5196118,-0.071009286
+terryjones_5,Terry Jones,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.32599643,-0.030558739
+maureenforrester_5,Maureen Forrester,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.37892663,-0.11740959
+aileenhernandez_0,Aileen Hernandez,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.4150828,-0.06919715
+aileenhernandez_5_1,Aileen Hernandez,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.45983297,-0.037236102
+aileenhernandez_5_2,Aileen Hernandez,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5110105,-0.09992094
+SteveLawrence_15,Steve Lawrence,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.45822552,-0.14052558
+RayGalton_5,Ray Galton,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.23420182,-0.012981944
+BobbyWomack_0,Bobby Womack,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.7284748,-0.24320237
+PaulinePhillips_10,Pauline Phillips,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.42789084,-0.12816998
+antonyflew_5_1,Antony Flew,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.4110645,-0.0788813
+antonyflew_10,Antony Flew,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.40592423,-0.06546441
+antonyflew_5_2,Antony Flew,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.3544083,-0.06029166
+emilegriffith_5,Emile Griffith,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.85384226,-0.30148685
+johnmackey_15_1,John Mackey,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.8291039,-0.27543098
+johnmackey_15_2,John Mackey,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.84243,-0.21939614
+DavidProwse_10,David Prowse,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.5515203,-0.20075862
+DavidProwse_5,David Prowse,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.29951185,-0.02080533
+DavidProwse_0,David Prowse,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.48615813,-0.071873516
+jimmclean_10,Jim McLean,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.5303469,-0.1417054
+AllanBurns_5,Allan Burns,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.37010804,-0.09985522
+OtisChandler_5,Otis Chandler,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.61756647,-0.0042385086
+PeterFalk_10,Peter Falk,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.52742505,-0.057655886
+PeterFalk_15,Peter Falk,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.43995196,-0.0736476
+mauricehinchey_5,Maurice Hinchey,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.6796067,-0.029316586
+mauricehinchey_0_1,Maurice Hinchey,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.71547115,-0.2599863
+mauricehinchey_0_2,Maurice Hinchey,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.76898235,-0.0745175
+paulhornung_10,Paul Hornung,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.3458736,-0.02637799
+paulhornung_0,Paul Hornung,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.47909644,-0.15442944
+JamesStewart_5,James Stewart,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.48956966,-0.15214989
+andrewsachs_15,Andrew Sachs,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.40150273,-0.12858915
+andrewsachs_10,Andrew Sachs,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.7691257,-0.22313447
+DonaldSterling_5,Donald Sterling,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.7625608,-0.16568828
+TimConway_5,Tim Conway,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.4472975,0.017725796
+TimConway_10,Tim Conway,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.3786221,0.024106443
+georgeklein_5_1,George Klein,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.61276776,-0.107425705
+georgeklein_5_3,George Klein,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.68646896,-0.2412981
+georgeklein_5_2,George Klein,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.65825903,-0.20482875
+CharlesKKao_0,Charles K Kao,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5005264,-0.025927931
+BarryCohen_5,Barry Cohen,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.50411177,-0.050142832
+JackHanna_15,Jack Hanna,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.543012,-0.096467175
+JackHanna_10,Jack Hanna,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5769398,-0.12211595
+DennisMoore_5,Dennis Moore,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.7583703,-0.2511925
+thomasdorsey_0,Thomas Dorsey,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.8138278,-0.21400417
+alanramsey_10,Alan Ramsey,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.45018926,-0.0029738396
+TedTurner_5,Ted Turner,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.6114305,-0.114319384
+TedTurner_0,Ted Turner,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.3959365,-0.06971369
+galesayers_5_1,Gale Sayers,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.88899,-0.4011641
+galesayers_5_2,Gale Sayers,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.925402,-0.35751885
+galesayers_0,Gale Sayers,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.9590969,-0.41823548
+EvelynKeyes_10,Evelyn Keyes,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.2547848,-0.063968636
+EvelynKeyes_0,Evelyn Keyes,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.32134497,-0.10758285
+DavidMilch_10,David Milch,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.50521183,-0.1251358
+DavidMilch_15,David Milch,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.42359015,-0.13977565
+CharlesBronson_15,Charles Bronson,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.93552727,-0.20251827
+CharlesBronson_10,Charles Bronson,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.9285501,-0.32872838
+IrisMurdoch_10,Iris Murdoch,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.23840961,-0.020996943
+IrisMurdoch_5,Iris Murdoch,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.39623067,-0.11118911
+RichardGwyn_0,Richard Gwyn,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.4335336,-0.102378376
+RichardGwyn_5,Richard Gwyn,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.4697034,-0.039578628
+OmarSharif_0,Omar Sharif,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.33863506,0.05991815
+OmarSharif_10,Omar Sharif,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.2360336,-0.03181615
+TonyBennett_15,Tony Bennett,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.21809833,-0.062673576
+TonyBennett_0,Tony Bennett,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.21116957,0.009643607
+GregFingersTaylor_10,Greg Fingers Taylor,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.89534515,-0.24112813
+JimNeidhart_10,Jim Neidhart,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.7686314,-0.29922354
+JimNeidhart_15,Jim Neidhart,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.8841708,-0.2377897
+JimNeidhart_0,Jim Neidhart,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.9728652,-0.4038232
+peterreveen_15,Peter Reveen,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5584627,-0.09555314
+StellaStevens_15,Stella Stevens,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5139909,-0.06080235
+patpariseau_10_1,Pat Pariseau,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.7063949,-0.28950733
+patpariseau_10_2,Pat Pariseau,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.33582315,-0.03987636
+TeresaGorman_10,Teresa Gorman,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5479956,-0.12552136
+TonyParkes_5,Tony Parkes,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.62982,-0.20628119
+TonyParkes_10,Tony Parkes,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.74388593,-0.23073213
+TerryPratchett_0,Terry Pratchett,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.52635485,-0.095472366
+TerryPratchett_5,Terry Pratchett,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.573643,-0.09917392
+ronano'rahilly_15_2,Ronan O'Rahilly,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.51610047,-0.072747834
+ronano'rahilly_15_1,Ronan O'Rahilly,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.51124597,-0.1212904
+georgerobb_10,George Robb,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.3482723,-0.049686987
+jessehelms_0,Jesse Helms,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.7741671,-0.23356278
+jessehelms_5_2,Jesse Helms,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.8765948,-0.31851226
+jessehelms_5_1,Jesse Helms,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.86268204,-0.25919878
+leonredbone_15,Leon Redbone,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.54853535,-0.22603972
+UnitaBlackwell_15,Unita Blackwell,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.6324634,-0.18439932
+RobertAnderson_10,Robert Anderson,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.3534809,-0.056193512
+JackWebster_10,Jack Webster,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.57800925,-0.041874245
+JackWebster_5,Jack Webster,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.6376069,-0.16670448
+StanBowles_5,Stan Bowles,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.7594601,-0.27063406
+ralphklein_5_2,Ralph Klein,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.71579695,-0.104138754
+ralphklein_5_1,Ralph Klein,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.54310024,0.024112754
+woodydurham_0_2,Woody Durham,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.61507046,-0.08492761
+TrevorPeacock_5,Trevor Peacock,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.77947813,-0.25245738
+BenBradlee_15,Ben Bradlee,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.3697562,-0.027529374
+BenBradlee_5,Ben Bradlee,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.4846861,-0.21050659
+JeanneLittle_10,Jeanne Little,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.40979025,-0.15419668
+SparkyAnderson_0,Sparky Anderson,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5298651,-0.13365443
+RayDolby_0,Ray Dolby,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.73299724,-0.2626172
+RayDolby_10,Ray Dolby,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.49535114,-0.15436152
+RonaldReagan_5,Ronald Reagan,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.40609387,-0.018532343
+RonaldReagan_10,Ronald Reagan,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.29516426,-0.03772132
+DonLane_0,Don Lane,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.771957,-0.29114455
+ianmccaskill_15,Ian McCaskill,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.6437911,-0.18815836
+AbeBurrows_5,Abe Burrows,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.47238714,-0.01779607
+PeterMax_10,Peter Max,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5789484,-0.17994285
+PeterMax_15,Peter Max,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.36711687,-0.039611697
+RobertWagner_3,Robert Wagner,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.42817798,0.010713078
+RobertWagner_2,Robert Wagner,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.157649,0.08789842
+Mel brooks_3,Mel brooks,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5361578,-0.0991459
+Mel brooks_2,Mel brooks,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5029791,-0.208462
+Mel brooks_1,Mel brooks,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.27695093,-0.091946036
+TerryRiley_3,Terry Riley,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.48539737,-0.024788514
+TerryRiley_2,Terry Riley,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.28892368,-0.08823982
+YokoOno_2,Yoko Ono,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.60171044,-0.16410688
+YokoOno_1,Yoko Ono,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.25958484,0.075480536
+YokoOno_3,Yoko Ono,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.24443391,-0.07281507
+Kirk Douglas_1,Kirk Douglas,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.3314737,-0.064493775
+Kirk Douglas_2,Kirk Douglas,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.32020193,-0.041321985
+Kirk Douglas_3,Kirk Douglas,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.5110694,-0.0065524727
+Warren Buffett_1,Warren Buffett,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.39327735,-0.030881844
+WarrenBuffett_3,Warren Buffett,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.30983722,0.045242906
+Warren Buffett_2,Warren Buffett,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.4352742,-0.0990256
+Judi Dench_3,Judi Dench,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.36342162,-0.13264707
+Judi Dench_2,Judi Dench,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.3215307,-0.09953977
+HarryBelafonte_2,Harry Belafonte,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.37195912,-0.044087008
+HarryBelafonte_3,Harry Belafonte,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.53476477,-0.09818759
+HarryBelafonte_1,Harry Belafonte,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.36430287,-0.1245943
+JerryLewis3,Jerry Lewis,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.3710053,0.006114006
+JerryLewis2,Jerry Lewis,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.4692896,-0.042701885
+JerryLewis1,Jerry Lewis,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.1768825,-0.026046924
+DominicChianese_3,Dominic Chianese,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.4667535,-0.12474641
+christopher plummer_3,Christopher Plummer,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.3249669,-0.11251036
+christopher plummer_1,Christopher Plummer,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.23293024,-0.008196592
+christopher plummer_2,Christopher Plummer,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.23082714,-0.0250732
+MichaelDukakis_3,Michael Dukakis,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.22244865,0.0066192895
+MichaelDukakis_1,Michael Dukakis,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.2431383,-0.00651481
+RupertMurdoch_1,Rupert Murdoch,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.6453202,-0.29112387
+RupertMurdoch_3,Rupert Murdoch,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.20966744,-0.045761764
+RupertMurdoch_2,Rupert Murdoch,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.16613278,-0.016959585
+Jimmy carter_3,Jimmy Carter,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.27466562,0.0034470484
+Jimmy carter_2,Jimmy Carter,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.26151925,-0.04818401
+MaxvonSydow_1,Max von Sydow,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.27603692,-0.06502211
+MaxvonSydow_3,Max von Sydow,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.42278546,-0.04815439
+james earl jones_2,James Earl Jones,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.46267414,-0.13298808
+james earl jones_1,James Earl Jones,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.26100698,-0.02487126
+WilliamShatner_3,William Shatner,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.30444637,-0.017612547
+WilliamShatner_1,William Shatner,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.2015422,0.013724051
+WilliamShatner_2,William Shatner,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.56469184,-0.14447007
+RichardDonner_2,Richard Donner,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.2701782,-0.010935605
+RichardDonner_3,Richard Donner,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.49587017,-0.055699643
+Angela Lansbury_1,Angela Lansbury,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.35875532,-0.043841824
+Angela Lansbury_3,Angela Lansbury,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.24150367,-0.053225525
+Angela Lansbury_2,Angela Lansbury,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.4213081,-0.113692105
+DavidMcCallum_1,David McCallum,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.26272961,0.019452624
+DavidMcCallum_3,David McCallum,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.45009568,-0.020945601
+MartinLandau_2,Martin Landau,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.30645797,-0.09676304
+MartinLandau_1,Martin Landau,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5488753,-0.15326875
+MartinLandau_3,Martin Landau,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.21987846,-0.0019776672
+SophiaLoren_2,Sophia Loren,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.4478691,-0.104693554
+SophiaLoren_1,Sophia Loren,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.29125577,-0.057992764
+JaneFonda_3,Jane Fonda,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.40540493,-0.069271505
+Jane Fonda_1,Jane Fonda,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.4418313,-0.11018035
+HankAaron_1,Hank Aaron,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.53345895,-0.19053113
+HankAaron_3,Hank Aaron,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.34645757,0.02265726
+HankAaron_2,Hank Aaron,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.24788395,-0.07745747
+Clint Eastwood_1,Clint Eastwood,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.27626514,-0.027883343
+Clint Eastwood_3,Clint Eastwood,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.17475708,0.016995177
+Clint Eastwood_2,Clint Eastwood,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.35763568,-0.01301299
+MilosForman_3,Milos Forman,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.3557305,-0.03037681
+MilosForman_1,Milos Forman,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.30081397,-0.03319356
+MilosForman_2,Milos Forman,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.33019418,-0.024136238
+dick van dyke_1,Dick van Dyke,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.20033325,-0.019386217
+dick van dyke_3,Dick van Dyke,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.2922049,-0.027018249
+JohnnyMathis_3,Johnny Mathis,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.24504799,-0.08613084
+Johnny Mathis_2,Johnny Mathis,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.17310415,0.013465971
+Michael Caine_3,Michael Caine,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.19970784,0.008709393
+Michael Caine_1,Michael Caine,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.1388691,-0.027603634
+Michael Caine_2,Michael Caine,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.26644856,-0.033180136
+SteveReich_2,Steve Reich,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.40038344,-0.014001533
+SteveReich_3,Steve Reich,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.39938724,-0.042012364
+Burt Bacharach_3,Burt Bacharach,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.24329652,0.00884293
+Burt Bacharach_2,Burt Bacharach,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.17780137,0.012888372
+Burt Bacharach_1,Burt Bacharach,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.30330658,-0.059368063
+JohnWilliams_2,John Williams,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.3668554,-0.07135552
+JohnWilliams_3,John Williams,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.22563265,0.0065720826
+JohnWilliams_1,John Williams,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.34676698,-0.03466756
+JoanCollins_1,Joan Collins,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.18541053,-0.022950485
+JoanCollins_2,Joan Collins,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.3471096,-0.13885255
+JoanCollins_3,Joan Collins,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.33310628,-0.056178797
+BobDole_2,Bob Dole,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.7999228,-0.24555944
+BobDole_3,Bob Dole,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.36952567,-0.005664006
+BobDole_1,Bob Dole,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.48776966,-0.092238456
+PeterLupus_2,Peter Lupus,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.42501646,0.01844494
+GeneHackman_2,Gene Hackman,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.2337998,-0.023373708
+GeneHackman_1,Gene Hackman,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.21160996,-0.019731931
+GeneHackman_3,Gene Hackman,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.39295042,-0.09874012
+RobertDuvall_3,Robert Duvall,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.63153696,-0.1497468
+RobertDuvall_1,Robert Duvall,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.34187734,0.031205937
+RobertDuvall_2,Robert Duvall,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.26129416,0.077537775
+RogerMoore_3,Roger Moore,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.29107255,-0.06910156
+RogerMoore_1,Roger Moore,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.18000461,-0.048502285
+RogerMoore_2,Roger Moore,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.23041856,-0.014815934
+DickVanPatten_3,Dick van Patten,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5088996,-0.081018895
+DickVanPatten_1,Dick van Patten,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.40099192,-0.07362094
+AlanArkin_3,Alan Arkin,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.33332652,-0.061435387
+AlanArkin_1,Alan Arkin,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.29140654,0.009591006
+bobbarker_2,Bob Barker,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5976015,-0.1003571
+bobbarker_3,Bob Barker,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.48008925,-0.0007338673
+David Attenboroug_3,David Attenboroug,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.18943062,-0.030752346
+BuddyGuy_2,Buddy Guy,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.7444398,-0.26917034
+BuddyGuy_3,Buddy Guy,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.57724345,-0.13201304
+sidney poiter_2,Sidney Poiter,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.29410115,-0.033585817
+sidney poiter_1,Sidney Poiter,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.9008504,-0.37800682
+sidney poiter_3,Sidney Poiter,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.7539206,-0.23970407
+KarlLagerfeld_2,Karl Lagerfeld,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.6848057,-0.21949556
+KarlLagerfeld_3,Karl Lagerfeld,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.20059586,0.017166562
+NanaMouskouri_1,Nana Mouskouri,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.18509601,-0.07313586
+NanaMouskouri_3,Nana Mouskouri,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.20588827,-0.07782565
+Betty White_2,Betty White,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.32534716,-0.12264891
+Betty White_1,Betty White,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.35411638,-0.10220075
+Betty White_3,Betty White,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5734007,-0.24093609
+WalterMondale_3,Walter Mondale,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.4665189,-0.0964082
+RosalynnCarter_1,Rosalynn Carter,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.49223003,-0.2358355
+RosalynnCarter_3,Rosalynn Carter,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.43963987,-0.13231929
+RosalynnCarter_2,Rosalynn Carter,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.17488545,-0.01130911
+BobNewhart_2,Bob Newhart,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.18941317,0.035124883
+BobNewhart_3,Bob Newhart,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.28575337,-0.016157314
+JimmyCalderwood_5,Jimmy Calderwood,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.57413185,-0.23253536
+vivnicholson_5,Viv Nicholson,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.87594444,-0.41017544
+IanHolm_2,Ian Holm,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.6729766,-0.12468889
+CharmianCarr_15,Charmian Carr,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.40798864,-0.041805852
+CharmianCarr_5,Charmian Carr,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.4845135,-0.13654897
+annettemichelson_15,Annette Michelson,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.45894587,-0.116065055
+BillBuckner_5,Bill Buckner,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.72194654,-0.26332295
+BillBuckner_10,Bill Buckner,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.6742462,-0.1548464
+BillBuckner_15,Bill Buckner,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.7608488,-0.2942986
+bbking_10,B B King,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.4682143,-0.06456322
+bbking_15,B B King,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.5809387,-0.17294218
+bbking_0,B B King,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.6404204,-0.118920706
+JonathanMiller_5,Jonathan Miller,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.36826035,-0.092745095
+ErnieSigley_15,Ernie Sigley,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.6051333,-0.17799178
+JoeConley_0,Joe Conley,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.8469096,-0.300554
+LeroneBennettJr_10,Lerone Bennett Jr,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.6079901,-0.07603142
+JimmyFratianno_0,Jimmy Fratianno,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.45246682,-0.06810741
+CaseyKasem_5,Casey Kasem,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.4758927,0.0061446503
+CaseyKasem_15,Casey Kasem,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.81560296,-0.28108698
+EstelleGetty_15,Estelle Getty,1,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.41476765,-0.09184731
+BillWyman_1,Bill Wyman,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.30260584,-0.08004275
+BillWyman_3,Bill Wyman,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.28218412,-0.028121889
+BillWyman_2,Bill Wyman,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.47308025,-0.15630072
+Stan Lee_3,Stan Lee,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.64422244,-0.14390229
+Stan Lee_2,Stan Lee,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.31296682,-0.05362085
+Stan Lee_1,Stan Lee,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.34883696,0.0067798495
+Prince Philip_2,Prince Philip,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.3310559,-0.039070167
+Prince Philip_3,Prince Philip,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.21849777,-0.042395405
+Prince Philip_1,Prince Philip,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.18146583,-0.0033786818
+GeorgeHWBush_3,George H W Bush,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.28019276,0.008824348
+GeorgeHWBush_2,George H W Bush,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,test,0.5490763,-0.124344416
+Morgen Freeman_1,Morgen Freeman,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.35139027,-0.07608991
+Morgen Freeman_3,Morgen Freeman,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.4046051,-0.102800146
+Morgen Freeman_2,Morgen Freeman,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.71262956,-0.09625982
+DonaldSutherland_3,Donald Sutherland,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.30342388,-0.07731806
+DonaldSutherland_2,Donald Sutherland,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.23482504,-0.020163901
+DonaldSutherland_1,Donald Sutherland,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.15944317,0.017516322
+JeanneMoreau_3,Jeanne Moreau,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.49307147,-0.105293594
+JeanneMoreau_1,Jeanne Moreau,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.20600647,-0.047638543
+DickCavett_1,Dick Cavett,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.18861072,-0.03006529
+DickCavett_3,Dick Cavett,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.23513009,-0.01173687
+Queen Elisabeth_3,Queen Elisabeth,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.18111598,0.025909513
+AnthonyHopkins_1,Anthony Hopkins,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.20954113,-0.005593516
+AnthonyHopkins_2,Anthony Hopkins,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.3406597,-0.08765535
+AnthonyHopkins_3,Anthony Hopkins,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.38603345,-0.051018164
+CharlesAznavour_3,Charles Aznavour,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.252491,-0.065930545
+CharlesAznavour_1,Charles Aznavour,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.3090056,-0.07869832
+CharlesAznavour_2,Charles Aznavour,0,0,3,V_audio,V_audio_s0_f3_v2,V_audio_s0_f3_v2,train,0.28864187,-0.021719366

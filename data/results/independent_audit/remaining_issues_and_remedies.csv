@@ -1,0 +1,7 @@
+issue,evidence,remedy
+Inner feature screening includes inner validation,9/25 inner and outer feature lists differ,V2 fits independent inner and outer preprocessing
+V_cls and V_joint checkpoint collision,Joint modality key resolves to V_cls,V2 takes explicit experiment identity
+GMM cross-model score proxy,5500/5500 alleged training rows are other-model OOF copies,V2 records all scores with same-model identity; legacy state claims withdrawn
+Ranking evidence overstated,"V1 logs expected updates and booleans, not observed gradients",V2 explicit pair batches log exposures and observed gradient updates
+ASR provenance unresolved,275 transcript hashes but generating model unspecified,Fixed asset status; no invented model identity
+Neural rerun assets absent from public branch,No embeddings arrays/index or checkpoints tracked,V2 feature-only controls executed; complete multimodal rerun awaits real arrays

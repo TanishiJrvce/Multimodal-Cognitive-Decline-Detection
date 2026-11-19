@@ -1,3 +1,24 @@
+# Verified V2 completion
+
+This V2 analysis supersedes the V1 numerical results below. It preserves the V0 dataset and representations while correcting inner-validation preprocessing, experiment checkpoint names, explicit ranking batches and same-model training-score provenance for mixtures. All 125 neural fits were completed with the supplied embeddings; 25 tests pass. Every checkpoint was independently reloaded and all saved predictions reproduced.
+
+Joint recording AUC: 0.628; classification-only AUC: 0.637; matched quality RF AUC: 0.610. Joint held-out speaker-balanced temporal concordance: 70.3% (31 speakers; bootstrap 59.1–80.9%). BIC selected one component in 24/25 models. These findings support ordinal temporal association, not clinical staging or MCI diagnosis.
+
+Run from this repository with its Python dependencies and original processed features plus the supplied 275-by-768 WavLM and BERT arrays:
+
+```bash
+python scripts/06_train_baselines_v2.py
+python scripts/07_train_joint_v2.py
+python scripts/08_states_v2.py
+python scripts/18_analyze_v2.py
+python scripts/19_verify_v2_outputs.py
+python -m pytest tests
+```
+
+The V2 scripts are the corrected workflow. Historical V1 state results used cross-model proxy training scores and must not be treated as genuine same-model state validation. Development fits under `pilot_no_modality_dropout` are excluded from primary results. Historical ASR identity remains unknown; no transcripts were regenerated. Institutional ethics and consent declarations require the authors' actual confirmation. Changes are on a local branch based on V0 commit 98ebd6a; they have not been pushed to GitHub.
+
+---
+
 # Explainable Multimodal Learning of Cognitive Decline Trajectories from Longitudinal Spontaneous Speech
 
 **Tanishi Jain** · V0 · DementiaNet (MIT licence)

@@ -1,0 +1,1376 @@
+file,speaker,label,seed,fold,group_prob
+terryjones_5,Terry Jones,1,0,0,0.64
+maureenforrester_5,Maureen Forrester,1,0,0,0.61
+johnmackey_15_1,John Mackey,1,0,0,0.56
+johnmackey_15_2,John Mackey,1,0,0,0.33
+OtisChandler_5,Otis Chandler,1,0,0,0.705
+mauricehinchey_5,Maurice Hinchey,1,0,0,0.21
+mauricehinchey_0_1,Maurice Hinchey,1,0,0,0.245
+mauricehinchey_0_2,Maurice Hinchey,1,0,0,0.63
+georgeklein_5_1,George Klein,1,0,0,0.505
+georgeklein_5_3,George Klein,1,0,0,0.71
+georgeklein_5_2,George Klein,1,0,0,0.385
+CharlesKKao_0,Charles K Kao,1,0,0,0.77
+JackHanna_15,Jack Hanna,1,0,0,0.49
+JackHanna_10,Jack Hanna,1,0,0,0.455
+alanramsey_10,Alan Ramsey,1,0,0,0.32
+RichardGwyn_0,Richard Gwyn,1,0,0,0.265
+RichardGwyn_5,Richard Gwyn,1,0,0,0.87
+TerryPratchett_0,Terry Pratchett,1,0,0,0.5
+TerryPratchett_5,Terry Pratchett,1,0,0,0.235
+RobertAnderson_10,Robert Anderson,1,0,0,0.825
+ianmccaskill_15,Ian McCaskill,1,0,0,0.22
+RobertWagner_3,Robert Wagner,0,0,0,0.235
+RobertWagner_2,Robert Wagner,0,0,0,0.78
+Mel brooks_3,Mel brooks,0,0,0,0.735
+Mel brooks_2,Mel brooks,0,0,0,0.425
+Mel brooks_1,Mel brooks,0,0,0,0.29
+DominicChianese_3,Dominic Chianese,0,0,0,0.25
+christopher plummer_3,Christopher Plummer,0,0,0,0.445
+christopher plummer_1,Christopher Plummer,0,0,0,0.405
+christopher plummer_2,Christopher Plummer,0,0,0,0.495
+MichaelDukakis_3,Michael Dukakis,0,0,0,0.265
+MichaelDukakis_1,Michael Dukakis,0,0,0,0.355
+RupertMurdoch_1,Rupert Murdoch,0,0,0,0.43
+RupertMurdoch_3,Rupert Murdoch,0,0,0,0.25
+RupertMurdoch_2,Rupert Murdoch,0,0,0,0.31
+RichardDonner_2,Richard Donner,0,0,0,0.31
+RichardDonner_3,Richard Donner,0,0,0,0.325
+GeneHackman_2,Gene Hackman,0,0,0,0.31
+GeneHackman_1,Gene Hackman,0,0,0,0.43
+GeneHackman_3,Gene Hackman,0,0,0,0.335
+KarlLagerfeld_2,Karl Lagerfeld,0,0,0,0.52
+KarlLagerfeld_3,Karl Lagerfeld,0,0,0,0.4
+RosalynnCarter_1,Rosalynn Carter,0,0,0,0.785
+RosalynnCarter_3,Rosalynn Carter,0,0,0,0.63
+RosalynnCarter_2,Rosalynn Carter,0,0,0,0.535
+annettemichelson_15,Annette Michelson,1,0,0,0.45
+JonathanMiller_5,Jonathan Miller,1,0,0,0.85
+CaseyKasem_5,Casey Kasem,1,0,0,0.63
+CaseyKasem_15,Casey Kasem,1,0,0,0.715
+BillWyman_1,Bill Wyman,0,0,0,0.17
+BillWyman_3,Bill Wyman,0,0,0,0.32
+BillWyman_2,Bill Wyman,0,0,0,0.66
+CharlesAznavour_3,Charles Aznavour,0,0,0,0.485
+CharlesAznavour_1,Charles Aznavour,0,0,0,0.47
+CharlesAznavour_2,Charles Aznavour,0,0,0,0.72
+galesayers_5_1,Gale Sayers,1,0,1,0.24
+galesayers_5_2,Gale Sayers,1,0,1,0.57
+galesayers_0,Gale Sayers,1,0,1,0.43
+EvelynKeyes_10,Evelyn Keyes,1,0,1,0.065
+EvelynKeyes_0,Evelyn Keyes,1,0,1,0.16
+StellaStevens_15,Stella Stevens,1,0,1,0.28
+patpariseau_10_1,Pat Pariseau,1,0,1,0.29
+patpariseau_10_2,Pat Pariseau,1,0,1,0.5
+ronano'rahilly_15_2,Ronan O'Rahilly,1,0,1,0.74
+ronano'rahilly_15_1,Ronan O'Rahilly,1,0,1,0.555
+georgerobb_10,George Robb,1,0,1,0.595
+jessehelms_0,Jesse Helms,1,0,1,0.245
+jessehelms_5_2,Jesse Helms,1,0,1,0.675
+jessehelms_5_1,Jesse Helms,1,0,1,0.11
+UnitaBlackwell_15,Unita Blackwell,1,0,1,0.67
+ralphklein_5_2,Ralph Klein,1,0,1,0.405
+ralphklein_5_1,Ralph Klein,1,0,1,0.305
+woodydurham_0_2,Woody Durham,1,0,1,0.47
+SparkyAnderson_0,Sparky Anderson,1,0,1,0.7
+RonaldReagan_5,Ronald Reagan,1,0,1,0.73
+RonaldReagan_10,Ronald Reagan,1,0,1,0.755
+PeterMax_10,Peter Max,1,0,1,0.33
+PeterMax_15,Peter Max,1,0,1,0.445
+JerryLewis3,Jerry Lewis,0,0,1,0.485
+JerryLewis2,Jerry Lewis,0,0,1,0.595
+JerryLewis1,Jerry Lewis,0,0,1,0.255
+MaxvonSydow_1,Max von Sydow,0,0,1,0.665
+MaxvonSydow_3,Max von Sydow,0,0,1,0.395
+HankAaron_1,Hank Aaron,0,0,1,0.635
+HankAaron_3,Hank Aaron,0,0,1,0.48
+HankAaron_2,Hank Aaron,0,0,1,0.17
+Clint Eastwood_1,Clint Eastwood,0,0,1,0.72
+Clint Eastwood_3,Clint Eastwood,0,0,1,0.34
+Clint Eastwood_2,Clint Eastwood,0,0,1,0.43
+JohnnyMathis_3,Johnny Mathis,0,0,1,0.175
+Johnny Mathis_2,Johnny Mathis,0,0,1,0.325
+JoanCollins_1,Joan Collins,0,0,1,0.375
+JoanCollins_2,Joan Collins,0,0,1,0.25
+JoanCollins_3,Joan Collins,0,0,1,0.55
+PeterLupus_2,Peter Lupus,0,0,1,0.61
+DickVanPatten_3,Dick van Patten,0,0,1,0.715
+DickVanPatten_1,Dick van Patten,0,0,1,0.22
+AlanArkin_3,Alan Arkin,0,0,1,0.46
+AlanArkin_1,Alan Arkin,0,0,1,0.685
+NanaMouskouri_1,Nana Mouskouri,0,0,1,0.275
+NanaMouskouri_3,Nana Mouskouri,0,0,1,0.565
+vivnicholson_5,Viv Nicholson,1,0,1,0.5
+LeroneBennettJr_10,Lerone Bennett Jr,1,0,1,0.73
+Prince Philip_2,Prince Philip,0,0,1,0.71
+Prince Philip_3,Prince Philip,0,0,1,0.495
+Prince Philip_1,Prince Philip,0,0,1,0.75
+Morgen Freeman_1,Morgen Freeman,0,0,1,0.335
+Morgen Freeman_3,Morgen Freeman,0,0,1,0.2
+Morgen Freeman_2,Morgen Freeman,0,0,1,0.365
+Queen Elisabeth_3,Queen Elisabeth,0,0,1,0.485
+aileenhernandez_0,Aileen Hernandez,1,0,2,0.345
+aileenhernandez_5_1,Aileen Hernandez,1,0,2,0.575
+aileenhernandez_5_2,Aileen Hernandez,1,0,2,0.465
+BobbyWomack_0,Bobby Womack,1,0,2,0.625
+PaulinePhillips_10,Pauline Phillips,1,0,2,0.805
+andrewsachs_15,Andrew Sachs,1,0,2,0.46
+andrewsachs_10,Andrew Sachs,1,0,2,0.25
+BarryCohen_5,Barry Cohen,1,0,2,0.49
+DavidMilch_10,David Milch,1,0,2,0.78
+DavidMilch_15,David Milch,1,0,2,0.58
+CharlesBronson_15,Charles Bronson,1,0,2,0.42
+CharlesBronson_10,Charles Bronson,1,0,2,0.66
+OmarSharif_0,Omar Sharif,1,0,2,0.725
+OmarSharif_10,Omar Sharif,1,0,2,0.48
+GregFingersTaylor_10,Greg Fingers Taylor,1,0,2,0.795
+JimNeidhart_10,Jim Neidhart,1,0,2,0.595
+JimNeidhart_15,Jim Neidhart,1,0,2,0.42
+JimNeidhart_0,Jim Neidhart,1,0,2,0.705
+TeresaGorman_10,Teresa Gorman,1,0,2,0.395
+StanBowles_5,Stan Bowles,1,0,2,0.195
+TrevorPeacock_5,Trevor Peacock,1,0,2,0.74
+RayDolby_0,Ray Dolby,1,0,2,0.735
+RayDolby_10,Ray Dolby,1,0,2,0.94
+AbeBurrows_5,Abe Burrows,1,0,2,0.74
+YokoOno_2,Yoko Ono,0,0,2,0.275
+YokoOno_1,Yoko Ono,0,0,2,0.455
+YokoOno_3,Yoko Ono,0,0,2,0.335
+Jimmy carter_3,Jimmy Carter,0,0,2,0.325
+Jimmy carter_2,Jimmy Carter,0,0,2,0.26
+james earl jones_2,James Earl Jones,0,0,2,0.59
+james earl jones_1,James Earl Jones,0,0,2,0.38
+Angela Lansbury_1,Angela Lansbury,0,0,2,0.405
+Angela Lansbury_3,Angela Lansbury,0,0,2,0.285
+Angela Lansbury_2,Angela Lansbury,0,0,2,0.805
+dick van dyke_1,Dick van Dyke,0,0,2,0.59
+dick van dyke_3,Dick van Dyke,0,0,2,0.5
+Burt Bacharach_3,Burt Bacharach,0,0,2,0.4
+Burt Bacharach_2,Burt Bacharach,0,0,2,0.39
+Burt Bacharach_1,Burt Bacharach,0,0,2,0.215
+JohnWilliams_2,John Williams,0,0,2,0.445
+JohnWilliams_3,John Williams,0,0,2,0.47
+JohnWilliams_1,John Williams,0,0,2,0.57
+BobDole_2,Bob Dole,0,0,2,0.785
+BobDole_3,Bob Dole,0,0,2,0.285
+BobDole_1,Bob Dole,0,0,2,0.6
+Betty White_2,Betty White,0,0,2,0.29
+Betty White_1,Betty White,0,0,2,0.65
+Betty White_3,Betty White,0,0,2,0.64
+WalterMondale_3,Walter Mondale,0,0,2,0.52
+EstelleGetty_15,Estelle Getty,1,0,2,0.495
+JeanneMoreau_3,Jeanne Moreau,0,0,2,0.255
+JeanneMoreau_1,Jeanne Moreau,0,0,2,0.365
+AnthonyHopkins_1,Anthony Hopkins,0,0,2,0.35
+AnthonyHopkins_2,Anthony Hopkins,0,0,2,0.39
+AnthonyHopkins_3,Anthony Hopkins,0,0,2,0.36
+SteveLawrence_15,Steve Lawrence,1,0,3,0.845
+antonyflew_5_1,Antony Flew,1,0,3,0.48
+antonyflew_10,Antony Flew,1,0,3,0.275
+antonyflew_5_2,Antony Flew,1,0,3,0.615
+DavidProwse_10,David Prowse,1,0,3,0.825
+DavidProwse_5,David Prowse,1,0,3,0.295
+DavidProwse_0,David Prowse,1,0,3,0.45
+jimmclean_10,Jim McLean,1,0,3,0.185
+AllanBurns_5,Allan Burns,1,0,3,0.93
+PeterFalk_10,Peter Falk,1,0,3,0.36
+PeterFalk_15,Peter Falk,1,0,3,0.675
+thomasdorsey_0,Thomas Dorsey,1,0,3,0.235
+TedTurner_5,Ted Turner,1,0,3,0.53
+TedTurner_0,Ted Turner,1,0,3,0.21
+TonyBennett_15,Tony Bennett,1,0,3,0.375
+TonyBennett_0,Tony Bennett,1,0,3,0.165
+leonredbone_15,Leon Redbone,1,0,3,0.7
+BenBradlee_15,Ben Bradlee,1,0,3,0.49
+BenBradlee_5,Ben Bradlee,1,0,3,0.605
+JeanneLittle_10,Jeanne Little,1,0,3,0.785
+DonLane_0,Don Lane,1,0,3,0.71
+Kirk Douglas_1,Kirk Douglas,0,0,3,0.31
+Kirk Douglas_2,Kirk Douglas,0,0,3,0.295
+Kirk Douglas_3,Kirk Douglas,0,0,3,0.46
+HarryBelafonte_2,Harry Belafonte,0,0,3,0.305
+HarryBelafonte_3,Harry Belafonte,0,0,3,0.625
+HarryBelafonte_1,Harry Belafonte,0,0,3,0.385
+DavidMcCallum_1,David McCallum,0,0,3,0.665
+DavidMcCallum_3,David McCallum,0,0,3,0.505
+SophiaLoren_2,Sophia Loren,0,0,3,0.205
+SophiaLoren_1,Sophia Loren,0,0,3,0.215
+JaneFonda_3,Jane Fonda,0,0,3,0.255
+Jane Fonda_1,Jane Fonda,0,0,3,0.485
+SteveReich_2,Steve Reich,0,0,3,0.845
+SteveReich_3,Steve Reich,0,0,3,0.31
+RobertDuvall_3,Robert Duvall,0,0,3,0.46
+RobertDuvall_1,Robert Duvall,0,0,3,0.42
+RobertDuvall_2,Robert Duvall,0,0,3,0.56
+RogerMoore_3,Roger Moore,0,0,3,0.515
+RogerMoore_1,Roger Moore,0,0,3,0.52
+RogerMoore_2,Roger Moore,0,0,3,0.345
+BuddyGuy_2,Buddy Guy,0,0,3,0.33
+BuddyGuy_3,Buddy Guy,0,0,3,0.2
+sidney poiter_2,Sidney Poiter,0,0,3,0.28
+sidney poiter_1,Sidney Poiter,0,0,3,0.7
+sidney poiter_3,Sidney Poiter,0,0,3,0.215
+JimmyCalderwood_5,Jimmy Calderwood,1,0,3,0.525
+CharmianCarr_15,Charmian Carr,1,0,3,0.745
+CharmianCarr_5,Charmian Carr,1,0,3,0.465
+ErnieSigley_15,Ernie Sigley,1,0,3,0.305
+Stan Lee_3,Stan Lee,0,0,3,0.385
+Stan Lee_2,Stan Lee,0,0,3,0.235
+Stan Lee_1,Stan Lee,0,0,3,0.595
+GeorgeHWBush_3,George H W Bush,0,0,3,0.32
+GeorgeHWBush_2,George H W Bush,0,0,3,0.755
+daningram_15,Dan Ingram,1,0,4,0.54
+RayGalton_5,Ray Galton,1,0,4,0.17
+emilegriffith_5,Emile Griffith,1,0,4,0.13
+paulhornung_10,Paul Hornung,1,0,4,0.48
+paulhornung_0,Paul Hornung,1,0,4,0.555
+JamesStewart_5,James Stewart,1,0,4,0.415
+DonaldSterling_5,Donald Sterling,1,0,4,0.51
+TimConway_5,Tim Conway,1,0,4,0.33
+TimConway_10,Tim Conway,1,0,4,0.89
+DennisMoore_5,Dennis Moore,1,0,4,0.845
+IrisMurdoch_10,Iris Murdoch,1,0,4,0.155
+IrisMurdoch_5,Iris Murdoch,1,0,4,0.275
+peterreveen_15,Peter Reveen,1,0,4,0.575
+TonyParkes_5,Tony Parkes,1,0,4,0.52
+TonyParkes_10,Tony Parkes,1,0,4,0.62
+JackWebster_10,Jack Webster,1,0,4,0.115
+JackWebster_5,Jack Webster,1,0,4,0.3
+TerryRiley_3,Terry Riley,0,0,4,0.695
+TerryRiley_2,Terry Riley,0,0,4,0.26
+Warren Buffett_1,Warren Buffett,0,0,4,0.5
+WarrenBuffett_3,Warren Buffett,0,0,4,0.275
+Warren Buffett_2,Warren Buffett,0,0,4,0.575
+Judi Dench_3,Judi Dench,0,0,4,0.195
+Judi Dench_2,Judi Dench,0,0,4,0.64
+WilliamShatner_3,William Shatner,0,0,4,0.395
+WilliamShatner_1,William Shatner,0,0,4,0.38
+WilliamShatner_2,William Shatner,0,0,4,0.21
+MartinLandau_2,Martin Landau,0,0,4,0.465
+MartinLandau_1,Martin Landau,0,0,4,0.39
+MartinLandau_3,Martin Landau,0,0,4,0.64
+MilosForman_3,Milos Forman,0,0,4,0.26
+MilosForman_1,Milos Forman,0,0,4,0.26
+MilosForman_2,Milos Forman,0,0,4,0.405
+Michael Caine_3,Michael Caine,0,0,4,0.12
+Michael Caine_1,Michael Caine,0,0,4,0.565
+Michael Caine_2,Michael Caine,0,0,4,0.215
+bobbarker_2,Bob Barker,0,0,4,0.485
+bobbarker_3,Bob Barker,0,0,4,0.255
+David Attenboroug_3,David Attenboroug,0,0,4,0.8
+BobNewhart_2,Bob Newhart,0,0,4,0.52
+BobNewhart_3,Bob Newhart,0,0,4,0.44
+IanHolm_2,Ian Holm,1,0,4,0.385
+BillBuckner_5,Bill Buckner,1,0,4,0.435
+BillBuckner_10,Bill Buckner,1,0,4,0.115
+BillBuckner_15,Bill Buckner,1,0,4,0.235
+bbking_10,B B King,1,0,4,0.21
+bbking_15,B B King,1,0,4,0.695
+bbking_0,B B King,1,0,4,0.19
+JoeConley_0,Joe Conley,1,0,4,0.465
+JimmyFratianno_0,Jimmy Fratianno,1,0,4,0.72
+DonaldSutherland_3,Donald Sutherland,0,0,4,0.575
+DonaldSutherland_2,Donald Sutherland,0,0,4,0.42
+DonaldSutherland_1,Donald Sutherland,0,0,4,0.33
+DickCavett_1,Dick Cavett,0,0,4,0.225
+DickCavett_3,Dick Cavett,0,0,4,0.505
+BobbyWomack_0,Bobby Womack,1,1,0,0.605
+DavidProwse_10,David Prowse,1,1,0,0.79
+DavidProwse_5,David Prowse,1,1,0,0.185
+DavidProwse_0,David Prowse,1,1,0,0.4
+jimmclean_10,Jim McLean,1,1,0,0.225
+TimConway_5,Tim Conway,1,1,0,0.42
+TimConway_10,Tim Conway,1,1,0,0.87
+BarryCohen_5,Barry Cohen,1,1,0,0.39
+IrisMurdoch_10,Iris Murdoch,1,1,0,0.305
+IrisMurdoch_5,Iris Murdoch,1,1,0,0.24
+RichardGwyn_0,Richard Gwyn,1,1,0,0.095
+RichardGwyn_5,Richard Gwyn,1,1,0,0.82
+ronano'rahilly_15_2,Ronan O'Rahilly,1,1,0,0.7
+ronano'rahilly_15_1,Ronan O'Rahilly,1,1,0,0.76
+georgerobb_10,George Robb,1,1,0,0.665
+woodydurham_0_2,Woody Durham,1,1,0,0.25
+ianmccaskill_15,Ian McCaskill,1,1,0,0.17
+AbeBurrows_5,Abe Burrows,1,1,0,0.79
+PeterMax_10,Peter Max,1,1,0,0.24
+PeterMax_15,Peter Max,1,1,0,0.58
+RobertWagner_3,Robert Wagner,0,1,0,0.22
+RobertWagner_2,Robert Wagner,0,1,0,0.65
+Kirk Douglas_1,Kirk Douglas,0,1,0,0.21
+Kirk Douglas_2,Kirk Douglas,0,1,0,0.28
+Kirk Douglas_3,Kirk Douglas,0,1,0,0.57
+JerryLewis3,Jerry Lewis,0,1,0,0.47
+JerryLewis2,Jerry Lewis,0,1,0,0.61
+JerryLewis1,Jerry Lewis,0,1,0,0.16
+RupertMurdoch_1,Rupert Murdoch,0,1,0,0.43
+RupertMurdoch_3,Rupert Murdoch,0,1,0,0.27
+RupertMurdoch_2,Rupert Murdoch,0,1,0,0.365
+Burt Bacharach_3,Burt Bacharach,0,1,0,0.365
+Burt Bacharach_2,Burt Bacharach,0,1,0,0.4
+Burt Bacharach_1,Burt Bacharach,0,1,0,0.095
+AlanArkin_3,Alan Arkin,0,1,0,0.425
+AlanArkin_1,Alan Arkin,0,1,0,0.575
+sidney poiter_2,Sidney Poiter,0,1,0,0.225
+sidney poiter_1,Sidney Poiter,0,1,0,0.555
+sidney poiter_3,Sidney Poiter,0,1,0,0.315
+Betty White_2,Betty White,0,1,0,0.275
+Betty White_1,Betty White,0,1,0,0.76
+Betty White_3,Betty White,0,1,0,0.655
+BobNewhart_2,Bob Newhart,0,1,0,0.58
+BobNewhart_3,Bob Newhart,0,1,0,0.325
+vivnicholson_5,Viv Nicholson,1,1,0,0.59
+bbking_10,B B King,1,1,0,0.18
+bbking_15,B B King,1,1,0,0.74
+bbking_0,B B King,1,1,0,0.44
+EstelleGetty_15,Estelle Getty,1,1,0,0.5
+JeanneMoreau_3,Jeanne Moreau,0,1,0,0.225
+JeanneMoreau_1,Jeanne Moreau,0,1,0,0.34
+Queen Elisabeth_3,Queen Elisabeth,0,1,0,0.515
+CharlesAznavour_3,Charles Aznavour,0,1,0,0.4
+CharlesAznavour_1,Charles Aznavour,0,1,0,0.44
+CharlesAznavour_2,Charles Aznavour,0,1,0,0.7
+AllanBurns_5,Allan Burns,1,1,1,0.945
+OtisChandler_5,Otis Chandler,1,1,1,0.59
+DonaldSterling_5,Donald Sterling,1,1,1,0.69
+CharlesKKao_0,Charles K Kao,1,1,1,0.71
+JackHanna_15,Jack Hanna,1,1,1,0.53
+JackHanna_10,Jack Hanna,1,1,1,0.24
+alanramsey_10,Alan Ramsey,1,1,1,0.28
+OmarSharif_0,Omar Sharif,1,1,1,0.5
+OmarSharif_10,Omar Sharif,1,1,1,0.395
+TonyBennett_15,Tony Bennett,1,1,1,0.345
+TonyBennett_0,Tony Bennett,1,1,1,0.265
+JimNeidhart_10,Jim Neidhart,1,1,1,0.535
+JimNeidhart_15,Jim Neidhart,1,1,1,0.535
+JimNeidhart_0,Jim Neidhart,1,1,1,0.825
+patpariseau_10_1,Pat Pariseau,1,1,1,0.52
+patpariseau_10_2,Pat Pariseau,1,1,1,0.42
+BenBradlee_15,Ben Bradlee,1,1,1,0.41
+BenBradlee_5,Ben Bradlee,1,1,1,0.51
+JeanneLittle_10,Jeanne Little,1,1,1,0.675
+Mel brooks_3,Mel brooks,0,1,1,0.38
+Mel brooks_2,Mel brooks,0,1,1,0.36
+Mel brooks_1,Mel brooks,0,1,1,0.42
+Warren Buffett_1,Warren Buffett,0,1,1,0.5
+WarrenBuffett_3,Warren Buffett,0,1,1,0.235
+Warren Buffett_2,Warren Buffett,0,1,1,0.545
+Judi Dench_3,Judi Dench,0,1,1,0.27
+Judi Dench_2,Judi Dench,0,1,1,0.455
+Jimmy carter_3,Jimmy Carter,0,1,1,0.405
+Jimmy carter_2,Jimmy Carter,0,1,1,0.155
+SteveReich_2,Steve Reich,0,1,1,0.69
+SteveReich_3,Steve Reich,0,1,1,0.375
+BobDole_2,Bob Dole,0,1,1,0.85
+BobDole_3,Bob Dole,0,1,1,0.455
+BobDole_1,Bob Dole,0,1,1,0.515
+GeneHackman_2,Gene Hackman,0,1,1,0.205
+GeneHackman_1,Gene Hackman,0,1,1,0.455
+GeneHackman_3,Gene Hackman,0,1,1,0.465
+RogerMoore_3,Roger Moore,0,1,1,0.675
+RogerMoore_1,Roger Moore,0,1,1,0.32
+RogerMoore_2,Roger Moore,0,1,1,0.38
+David Attenboroug_3,David Attenboroug,0,1,1,0.65
+BuddyGuy_2,Buddy Guy,0,1,1,0.435
+BuddyGuy_3,Buddy Guy,0,1,1,0.295
+RosalynnCarter_1,Rosalynn Carter,0,1,1,0.835
+RosalynnCarter_3,Rosalynn Carter,0,1,1,0.58
+RosalynnCarter_2,Rosalynn Carter,0,1,1,0.455
+IanHolm_2,Ian Holm,1,1,1,0.37
+annettemichelson_15,Annette Michelson,1,1,1,0.54
+BillBuckner_5,Bill Buckner,1,1,1,0.545
+BillBuckner_10,Bill Buckner,1,1,1,0.16
+BillBuckner_15,Bill Buckner,1,1,1,0.34
+JonathanMiller_5,Jonathan Miller,1,1,1,0.82
+BillWyman_1,Bill Wyman,0,1,1,0.185
+BillWyman_3,Bill Wyman,0,1,1,0.435
+BillWyman_2,Bill Wyman,0,1,1,0.465
+daningram_15,Dan Ingram,1,1,2,0.33
+terryjones_5,Terry Jones,1,1,2,0.64
+SteveLawrence_15,Steve Lawrence,1,1,2,0.83
+RayGalton_5,Ray Galton,1,1,2,0.085
+PeterFalk_10,Peter Falk,1,1,2,0.335
+PeterFalk_15,Peter Falk,1,1,2,0.81
+mauricehinchey_5,Maurice Hinchey,1,1,2,0.175
+mauricehinchey_0_1,Maurice Hinchey,1,1,2,0.365
+mauricehinchey_0_2,Maurice Hinchey,1,1,2,0.43
+georgeklein_5_1,George Klein,1,1,2,0.26
+georgeklein_5_3,George Klein,1,1,2,0.375
+georgeklein_5_2,George Klein,1,1,2,0.26
+thomasdorsey_0,Thomas Dorsey,1,1,2,0.225
+EvelynKeyes_10,Evelyn Keyes,1,1,2,0.065
+EvelynKeyes_0,Evelyn Keyes,1,1,2,0.2
+DavidMilch_10,David Milch,1,1,2,0.795
+DavidMilch_15,David Milch,1,1,2,0.67
+peterreveen_15,Peter Reveen,1,1,2,0.71
+RobertAnderson_10,Robert Anderson,1,1,2,0.735
+JackWebster_10,Jack Webster,1,1,2,0.295
+JackWebster_5,Jack Webster,1,1,2,0.18
+StanBowles_5,Stan Bowles,1,1,2,0.19
+SparkyAnderson_0,Sparky Anderson,1,1,2,0.655
+RichardDonner_2,Richard Donner,0,1,2,0.45
+RichardDonner_3,Richard Donner,0,1,2,0.25
+MartinLandau_2,Martin Landau,0,1,2,0.505
+MartinLandau_1,Martin Landau,0,1,2,0.3
+MartinLandau_3,Martin Landau,0,1,2,0.48
+SophiaLoren_2,Sophia Loren,0,1,2,0.16
+SophiaLoren_1,Sophia Loren,0,1,2,0.325
+Clint Eastwood_1,Clint Eastwood,0,1,2,0.565
+Clint Eastwood_3,Clint Eastwood,0,1,2,0.395
+Clint Eastwood_2,Clint Eastwood,0,1,2,0.42
+MilosForman_3,Milos Forman,0,1,2,0.24
+MilosForman_1,Milos Forman,0,1,2,0.465
+MilosForman_2,Milos Forman,0,1,2,0.445
+JohnWilliams_2,John Williams,0,1,2,0.2
+JohnWilliams_3,John Williams,0,1,2,0.295
+JohnWilliams_1,John Williams,0,1,2,0.375
+JoanCollins_1,Joan Collins,0,1,2,0.37
+JoanCollins_2,Joan Collins,0,1,2,0.375
+JoanCollins_3,Joan Collins,0,1,2,0.5
+DickVanPatten_3,Dick van Patten,0,1,2,0.71
+DickVanPatten_1,Dick van Patten,0,1,2,0.26
+bobbarker_2,Bob Barker,0,1,2,0.44
+bobbarker_3,Bob Barker,0,1,2,0.24
+KarlLagerfeld_2,Karl Lagerfeld,0,1,2,0.57
+KarlLagerfeld_3,Karl Lagerfeld,0,1,2,0.465
+CharmianCarr_15,Charmian Carr,1,1,2,0.74
+CharmianCarr_5,Charmian Carr,1,1,2,0.45
+Stan Lee_3,Stan Lee,0,1,2,0.14
+Stan Lee_2,Stan Lee,0,1,2,0.15
+Stan Lee_1,Stan Lee,0,1,2,0.41
+GeorgeHWBush_3,George H W Bush,0,1,2,0.3
+GeorgeHWBush_2,George H W Bush,0,1,2,0.555
+maureenforrester_5,Maureen Forrester,1,1,3,0.635
+antonyflew_5_1,Antony Flew,1,1,3,0.29
+antonyflew_10,Antony Flew,1,1,3,0.5
+antonyflew_5_2,Antony Flew,1,1,3,0.645
+johnmackey_15_1,John Mackey,1,1,3,0.615
+johnmackey_15_2,John Mackey,1,1,3,0.345
+JamesStewart_5,James Stewart,1,1,3,0.48
+DennisMoore_5,Dennis Moore,1,1,3,0.91
+CharlesBronson_15,Charles Bronson,1,1,3,0.405
+CharlesBronson_10,Charles Bronson,1,1,3,0.505
+StellaStevens_15,Stella Stevens,1,1,3,0.45
+TeresaGorman_10,Teresa Gorman,1,1,3,0.42
+TerryPratchett_0,Terry Pratchett,1,1,3,0.51
+TerryPratchett_5,Terry Pratchett,1,1,3,0.305
+jessehelms_0,Jesse Helms,1,1,3,0.325
+jessehelms_5_2,Jesse Helms,1,1,3,0.59
+jessehelms_5_1,Jesse Helms,1,1,3,0.165
+UnitaBlackwell_15,Unita Blackwell,1,1,3,0.86
+RayDolby_0,Ray Dolby,1,1,3,0.635
+RayDolby_10,Ray Dolby,1,1,3,0.83
+RonaldReagan_5,Ronald Reagan,1,1,3,0.84
+RonaldReagan_10,Ronald Reagan,1,1,3,0.905
+DonLane_0,Don Lane,1,1,3,0.715
+YokoOno_2,Yoko Ono,0,1,3,0.295
+YokoOno_1,Yoko Ono,0,1,3,0.32
+YokoOno_3,Yoko Ono,0,1,3,0.355
+HarryBelafonte_2,Harry Belafonte,0,1,3,0.48
+HarryBelafonte_3,Harry Belafonte,0,1,3,0.54
+HarryBelafonte_1,Harry Belafonte,0,1,3,0.28
+MichaelDukakis_3,Michael Dukakis,0,1,3,0.455
+MichaelDukakis_1,Michael Dukakis,0,1,3,0.43
+Angela Lansbury_1,Angela Lansbury,0,1,3,0.285
+Angela Lansbury_3,Angela Lansbury,0,1,3,0.37
+Angela Lansbury_2,Angela Lansbury,0,1,3,0.805
+DavidMcCallum_1,David McCallum,0,1,3,0.45
+DavidMcCallum_3,David McCallum,0,1,3,0.475
+dick van dyke_1,Dick van Dyke,0,1,3,0.64
+dick van dyke_3,Dick van Dyke,0,1,3,0.48
+Michael Caine_3,Michael Caine,0,1,3,0.24
+Michael Caine_1,Michael Caine,0,1,3,0.58
+Michael Caine_2,Michael Caine,0,1,3,0.32
+PeterLupus_2,Peter Lupus,0,1,3,0.645
+NanaMouskouri_1,Nana Mouskouri,0,1,3,0.39
+NanaMouskouri_3,Nana Mouskouri,0,1,3,0.44
+JimmyCalderwood_5,Jimmy Calderwood,1,1,3,0.505
+ErnieSigley_15,Ernie Sigley,1,1,3,0.285
+JoeConley_0,Joe Conley,1,1,3,0.565
+DonaldSutherland_3,Donald Sutherland,0,1,3,0.42
+DonaldSutherland_2,Donald Sutherland,0,1,3,0.44
+DonaldSutherland_1,Donald Sutherland,0,1,3,0.265
+DickCavett_1,Dick Cavett,0,1,3,0.235
+DickCavett_3,Dick Cavett,0,1,3,0.565
+AnthonyHopkins_1,Anthony Hopkins,0,1,3,0.425
+AnthonyHopkins_2,Anthony Hopkins,0,1,3,0.24
+AnthonyHopkins_3,Anthony Hopkins,0,1,3,0.32
+aileenhernandez_0,Aileen Hernandez,1,1,4,0.34
+aileenhernandez_5_1,Aileen Hernandez,1,1,4,0.54
+aileenhernandez_5_2,Aileen Hernandez,1,1,4,0.4
+PaulinePhillips_10,Pauline Phillips,1,1,4,0.73
+emilegriffith_5,Emile Griffith,1,1,4,0.405
+paulhornung_10,Paul Hornung,1,1,4,0.43
+paulhornung_0,Paul Hornung,1,1,4,0.62
+andrewsachs_15,Andrew Sachs,1,1,4,0.4
+andrewsachs_10,Andrew Sachs,1,1,4,0.385
+TedTurner_5,Ted Turner,1,1,4,0.615
+TedTurner_0,Ted Turner,1,1,4,0.19
+galesayers_5_1,Gale Sayers,1,1,4,0.42
+galesayers_5_2,Gale Sayers,1,1,4,0.43
+galesayers_0,Gale Sayers,1,1,4,0.39
+GregFingersTaylor_10,Greg Fingers Taylor,1,1,4,0.735
+TonyParkes_5,Tony Parkes,1,1,4,0.46
+TonyParkes_10,Tony Parkes,1,1,4,0.62
+leonredbone_15,Leon Redbone,1,1,4,0.76
+ralphklein_5_2,Ralph Klein,1,1,4,0.42
+ralphklein_5_1,Ralph Klein,1,1,4,0.33
+TrevorPeacock_5,Trevor Peacock,1,1,4,0.61
+TerryRiley_3,Terry Riley,0,1,4,0.52
+TerryRiley_2,Terry Riley,0,1,4,0.35
+DominicChianese_3,Dominic Chianese,0,1,4,0.21
+christopher plummer_3,Christopher Plummer,0,1,4,0.56
+christopher plummer_1,Christopher Plummer,0,1,4,0.315
+christopher plummer_2,Christopher Plummer,0,1,4,0.36
+MaxvonSydow_1,Max von Sydow,0,1,4,0.7
+MaxvonSydow_3,Max von Sydow,0,1,4,0.305
+james earl jones_2,James Earl Jones,0,1,4,0.775
+james earl jones_1,James Earl Jones,0,1,4,0.36
+WilliamShatner_3,William Shatner,0,1,4,0.245
+WilliamShatner_1,William Shatner,0,1,4,0.185
+WilliamShatner_2,William Shatner,0,1,4,0.27
+JaneFonda_3,Jane Fonda,0,1,4,0.32
+Jane Fonda_1,Jane Fonda,0,1,4,0.35
+HankAaron_1,Hank Aaron,0,1,4,0.765
+HankAaron_3,Hank Aaron,0,1,4,0.795
+HankAaron_2,Hank Aaron,0,1,4,0.215
+JohnnyMathis_3,Johnny Mathis,0,1,4,0.375
+Johnny Mathis_2,Johnny Mathis,0,1,4,0.275
+RobertDuvall_3,Robert Duvall,0,1,4,0.74
+RobertDuvall_1,Robert Duvall,0,1,4,0.37
+RobertDuvall_2,Robert Duvall,0,1,4,0.62
+WalterMondale_3,Walter Mondale,0,1,4,0.35
+LeroneBennettJr_10,Lerone Bennett Jr,1,1,4,0.715
+JimmyFratianno_0,Jimmy Fratianno,1,1,4,0.625
+CaseyKasem_5,Casey Kasem,1,1,4,0.745
+CaseyKasem_15,Casey Kasem,1,1,4,0.605
+Prince Philip_2,Prince Philip,0,1,4,0.68
+Prince Philip_3,Prince Philip,0,1,4,0.37
+Prince Philip_1,Prince Philip,0,1,4,0.705
+Morgen Freeman_1,Morgen Freeman,0,1,4,0.495
+Morgen Freeman_3,Morgen Freeman,0,1,4,0.41
+Morgen Freeman_2,Morgen Freeman,0,1,4,0.31
+daningram_15,Dan Ingram,1,2,0,0.36
+maureenforrester_5,Maureen Forrester,1,2,0,0.415
+aileenhernandez_0,Aileen Hernandez,1,2,0,0.53
+aileenhernandez_5_1,Aileen Hernandez,1,2,0,0.505
+aileenhernandez_5_2,Aileen Hernandez,1,2,0,0.375
+BobbyWomack_0,Bobby Womack,1,2,0,0.46
+andrewsachs_15,Andrew Sachs,1,2,0,0.43
+andrewsachs_10,Andrew Sachs,1,2,0,0.305
+DonaldSterling_5,Donald Sterling,1,2,0,0.61
+JackHanna_15,Jack Hanna,1,2,0,0.635
+JackHanna_10,Jack Hanna,1,2,0,0.595
+alanramsey_10,Alan Ramsey,1,2,0,0.27
+galesayers_5_1,Gale Sayers,1,2,0,0.29
+galesayers_5_2,Gale Sayers,1,2,0,0.48
+galesayers_0,Gale Sayers,1,2,0,0.36
+IrisMurdoch_10,Iris Murdoch,1,2,0,0.36
+IrisMurdoch_5,Iris Murdoch,1,2,0,0.21
+RichardGwyn_0,Richard Gwyn,1,2,0,0.23
+RichardGwyn_5,Richard Gwyn,1,2,0,0.86
+StellaStevens_15,Stella Stevens,1,2,0,0.33
+TonyParkes_5,Tony Parkes,1,2,0,0.405
+TonyParkes_10,Tony Parkes,1,2,0,0.675
+georgerobb_10,George Robb,1,2,0,0.575
+DonLane_0,Don Lane,1,2,0,0.655
+AbeBurrows_5,Abe Burrows,1,2,0,0.7
+Mel brooks_3,Mel brooks,0,2,0,0.595
+Mel brooks_2,Mel brooks,0,2,0,0.335
+Mel brooks_1,Mel brooks,0,2,0,0.41
+Warren Buffett_1,Warren Buffett,0,2,0,0.465
+WarrenBuffett_3,Warren Buffett,0,2,0,0.33
+Warren Buffett_2,Warren Buffett,0,2,0,0.62
+Judi Dench_3,Judi Dench,0,2,0,0.135
+Judi Dench_2,Judi Dench,0,2,0,0.325
+DominicChianese_3,Dominic Chianese,0,2,0,0.28
+christopher plummer_3,Christopher Plummer,0,2,0,0.71
+christopher plummer_1,Christopher Plummer,0,2,0,0.305
+christopher plummer_2,Christopher Plummer,0,2,0,0.31
+MichaelDukakis_3,Michael Dukakis,0,2,0,0.395
+MichaelDukakis_1,Michael Dukakis,0,2,0,0.44
+DavidMcCallum_1,David McCallum,0,2,0,0.545
+DavidMcCallum_3,David McCallum,0,2,0,0.565
+dick van dyke_1,Dick van Dyke,0,2,0,0.47
+dick van dyke_3,Dick van Dyke,0,2,0,0.685
+GeneHackman_2,Gene Hackman,0,2,0,0.27
+GeneHackman_1,Gene Hackman,0,2,0,0.59
+GeneHackman_3,Gene Hackman,0,2,0,0.47
+RobertDuvall_3,Robert Duvall,0,2,0,0.545
+RobertDuvall_1,Robert Duvall,0,2,0,0.33
+RobertDuvall_2,Robert Duvall,0,2,0,0.5
+RogerMoore_3,Roger Moore,0,2,0,0.47
+RogerMoore_1,Roger Moore,0,2,0,0.355
+RogerMoore_2,Roger Moore,0,2,0,0.32
+DonaldSutherland_3,Donald Sutherland,0,2,0,0.33
+DonaldSutherland_2,Donald Sutherland,0,2,0,0.485
+DonaldSutherland_1,Donald Sutherland,0,2,0,0.23
+emilegriffith_5,Emile Griffith,1,2,1,0.405
+johnmackey_15_1,John Mackey,1,2,1,0.69
+johnmackey_15_2,John Mackey,1,2,1,0.405
+georgeklein_5_1,George Klein,1,2,1,0.495
+georgeklein_5_3,George Klein,1,2,1,0.605
+georgeklein_5_2,George Klein,1,2,1,0.17
+CharlesKKao_0,Charles K Kao,1,2,1,0.79
+TedTurner_5,Ted Turner,1,2,1,0.595
+TedTurner_0,Ted Turner,1,2,1,0.215
+EvelynKeyes_10,Evelyn Keyes,1,2,1,0.075
+EvelynKeyes_0,Evelyn Keyes,1,2,1,0.165
+patpariseau_10_1,Pat Pariseau,1,2,1,0.33
+patpariseau_10_2,Pat Pariseau,1,2,1,0.47
+jessehelms_0,Jesse Helms,1,2,1,0.28
+jessehelms_5_2,Jesse Helms,1,2,1,0.725
+jessehelms_5_1,Jesse Helms,1,2,1,0.155
+woodydurham_0_2,Woody Durham,1,2,1,0.455
+TrevorPeacock_5,Trevor Peacock,1,2,1,0.815
+JeanneLittle_10,Jeanne Little,1,2,1,0.485
+ianmccaskill_15,Ian McCaskill,1,2,1,0.185
+RobertWagner_3,Robert Wagner,0,2,1,0.205
+RobertWagner_2,Robert Wagner,0,2,1,0.74
+JerryLewis3,Jerry Lewis,0,2,1,0.375
+JerryLewis2,Jerry Lewis,0,2,1,0.515
+JerryLewis1,Jerry Lewis,0,2,1,0.165
+Jimmy carter_3,Jimmy Carter,0,2,1,0.39
+Jimmy carter_2,Jimmy Carter,0,2,1,0.205
+WilliamShatner_3,William Shatner,0,2,1,0.215
+WilliamShatner_1,William Shatner,0,2,1,0.31
+WilliamShatner_2,William Shatner,0,2,1,0.135
+Angela Lansbury_1,Angela Lansbury,0,2,1,0.16
+Angela Lansbury_3,Angela Lansbury,0,2,1,0.38
+Angela Lansbury_2,Angela Lansbury,0,2,1,0.855
+HankAaron_1,Hank Aaron,0,2,1,0.435
+HankAaron_3,Hank Aaron,0,2,1,0.555
+HankAaron_2,Hank Aaron,0,2,1,0.235
+Michael Caine_3,Michael Caine,0,2,1,0.155
+Michael Caine_1,Michael Caine,0,2,1,0.525
+Michael Caine_2,Michael Caine,0,2,1,0.135
+SteveReich_2,Steve Reich,0,2,1,0.865
+SteveReich_3,Steve Reich,0,2,1,0.32
+WalterMondale_3,Walter Mondale,0,2,1,0.21
+vivnicholson_5,Viv Nicholson,1,2,1,0.535
+CharmianCarr_15,Charmian Carr,1,2,1,0.93
+CharmianCarr_5,Charmian Carr,1,2,1,0.585
+JonathanMiller_5,Jonathan Miller,1,2,1,0.895
+LeroneBennettJr_10,Lerone Bennett Jr,1,2,1,0.81
+BillWyman_1,Bill Wyman,0,2,1,0.08
+BillWyman_3,Bill Wyman,0,2,1,0.355
+BillWyman_2,Bill Wyman,0,2,1,0.66
+Stan Lee_3,Stan Lee,0,2,1,0.265
+Stan Lee_2,Stan Lee,0,2,1,0.205
+Stan Lee_1,Stan Lee,0,2,1,0.28
+JeanneMoreau_3,Jeanne Moreau,0,2,1,0.29
+JeanneMoreau_1,Jeanne Moreau,0,2,1,0.245
+terryjones_5,Terry Jones,1,2,2,0.525
+SteveLawrence_15,Steve Lawrence,1,2,2,0.82
+RayGalton_5,Ray Galton,1,2,2,0.24
+PeterFalk_10,Peter Falk,1,2,2,0.35
+PeterFalk_15,Peter Falk,1,2,2,0.755
+paulhornung_10,Paul Hornung,1,2,2,0.515
+paulhornung_0,Paul Hornung,1,2,2,0.42
+DennisMoore_5,Dennis Moore,1,2,2,0.855
+thomasdorsey_0,Thomas Dorsey,1,2,2,0.305
+OmarSharif_0,Omar Sharif,1,2,2,0.58
+OmarSharif_10,Omar Sharif,1,2,2,0.375
+TonyBennett_15,Tony Bennett,1,2,2,0.45
+TonyBennett_0,Tony Bennett,1,2,2,0.29
+GregFingersTaylor_10,Greg Fingers Taylor,1,2,2,0.795
+RonaldReagan_5,Ronald Reagan,1,2,2,0.72
+RonaldReagan_10,Ronald Reagan,1,2,2,0.86
+RichardDonner_2,Richard Donner,0,2,2,0.25
+RichardDonner_3,Richard Donner,0,2,2,0.39
+MilosForman_3,Milos Forman,0,2,2,0.255
+MilosForman_1,Milos Forman,0,2,2,0.355
+MilosForman_2,Milos Forman,0,2,2,0.385
+JohnnyMathis_3,Johnny Mathis,0,2,2,0.43
+Johnny Mathis_2,Johnny Mathis,0,2,2,0.4
+Burt Bacharach_3,Burt Bacharach,0,2,2,0.55
+Burt Bacharach_2,Burt Bacharach,0,2,2,0.425
+Burt Bacharach_1,Burt Bacharach,0,2,2,0.17
+JoanCollins_1,Joan Collins,0,2,2,0.26
+JoanCollins_2,Joan Collins,0,2,2,0.37
+JoanCollins_3,Joan Collins,0,2,2,0.525
+sidney poiter_2,Sidney Poiter,0,2,2,0.385
+sidney poiter_1,Sidney Poiter,0,2,2,0.57
+sidney poiter_3,Sidney Poiter,0,2,2,0.275
+KarlLagerfeld_2,Karl Lagerfeld,0,2,2,0.56
+KarlLagerfeld_3,Karl Lagerfeld,0,2,2,0.475
+NanaMouskouri_1,Nana Mouskouri,0,2,2,0.23
+NanaMouskouri_3,Nana Mouskouri,0,2,2,0.455
+RosalynnCarter_1,Rosalynn Carter,0,2,2,0.895
+RosalynnCarter_3,Rosalynn Carter,0,2,2,0.54
+RosalynnCarter_2,Rosalynn Carter,0,2,2,0.585
+IanHolm_2,Ian Holm,1,2,2,0.415
+annettemichelson_15,Annette Michelson,1,2,2,0.455
+BillBuckner_5,Bill Buckner,1,2,2,0.515
+BillBuckner_10,Bill Buckner,1,2,2,0.21
+BillBuckner_15,Bill Buckner,1,2,2,0.36
+bbking_10,B B King,1,2,2,0.19
+bbking_15,B B King,1,2,2,0.655
+bbking_0,B B King,1,2,2,0.4
+EstelleGetty_15,Estelle Getty,1,2,2,0.495
+GeorgeHWBush_3,George H W Bush,0,2,2,0.375
+GeorgeHWBush_2,George H W Bush,0,2,2,0.545
+DickCavett_1,Dick Cavett,0,2,2,0.405
+DickCavett_3,Dick Cavett,0,2,2,0.675
+AnthonyHopkins_1,Anthony Hopkins,0,2,2,0.435
+AnthonyHopkins_2,Anthony Hopkins,0,2,2,0.295
+AnthonyHopkins_3,Anthony Hopkins,0,2,2,0.39
+DavidProwse_10,David Prowse,1,2,3,0.615
+DavidProwse_5,David Prowse,1,2,3,0.23
+DavidProwse_0,David Prowse,1,2,3,0.45
+AllanBurns_5,Allan Burns,1,2,3,0.845
+mauricehinchey_5,Maurice Hinchey,1,2,3,0.24
+mauricehinchey_0_1,Maurice Hinchey,1,2,3,0.235
+mauricehinchey_0_2,Maurice Hinchey,1,2,3,0.59
+TimConway_5,Tim Conway,1,2,3,0.455
+TimConway_10,Tim Conway,1,2,3,0.655
+DavidMilch_10,David Milch,1,2,3,0.59
+DavidMilch_15,David Milch,1,2,3,0.58
+CharlesBronson_15,Charles Bronson,1,2,3,0.5
+CharlesBronson_10,Charles Bronson,1,2,3,0.675
+peterreveen_15,Peter Reveen,1,2,3,0.76
+leonredbone_15,Leon Redbone,1,2,3,0.82
+UnitaBlackwell_15,Unita Blackwell,1,2,3,0.59
+RobertAnderson_10,Robert Anderson,1,2,3,0.53
+ralphklein_5_2,Ralph Klein,1,2,3,0.53
+ralphklein_5_1,Ralph Klein,1,2,3,0.31
+BenBradlee_15,Ben Bradlee,1,2,3,0.485
+BenBradlee_5,Ben Bradlee,1,2,3,0.74
+SparkyAnderson_0,Sparky Anderson,1,2,3,0.585
+Kirk Douglas_1,Kirk Douglas,0,2,3,0.265
+Kirk Douglas_2,Kirk Douglas,0,2,3,0.325
+Kirk Douglas_3,Kirk Douglas,0,2,3,0.665
+HarryBelafonte_2,Harry Belafonte,0,2,3,0.345
+HarryBelafonte_3,Harry Belafonte,0,2,3,0.615
+HarryBelafonte_1,Harry Belafonte,0,2,3,0.13
+RupertMurdoch_1,Rupert Murdoch,0,2,3,0.455
+RupertMurdoch_3,Rupert Murdoch,0,2,3,0.21
+RupertMurdoch_2,Rupert Murdoch,0,2,3,0.305
+MaxvonSydow_1,Max von Sydow,0,2,3,0.56
+MaxvonSydow_3,Max von Sydow,0,2,3,0.44
+BobDole_2,Bob Dole,0,2,3,0.795
+BobDole_3,Bob Dole,0,2,3,0.305
+BobDole_1,Bob Dole,0,2,3,0.71
+DickVanPatten_3,Dick van Patten,0,2,3,0.67
+DickVanPatten_1,Dick van Patten,0,2,3,0.23
+AlanArkin_3,Alan Arkin,0,2,3,0.46
+AlanArkin_1,Alan Arkin,0,2,3,0.51
+bobbarker_2,Bob Barker,0,2,3,0.455
+bobbarker_3,Bob Barker,0,2,3,0.215
+David Attenboroug_3,David Attenboroug,0,2,3,0.61
+Betty White_2,Betty White,0,2,3,0.265
+Betty White_1,Betty White,0,2,3,0.735
+Betty White_3,Betty White,0,2,3,0.675
+BobNewhart_2,Bob Newhart,0,2,3,0.48
+BobNewhart_3,Bob Newhart,0,2,3,0.42
+JoeConley_0,Joe Conley,1,2,3,0.395
+JimmyFratianno_0,Jimmy Fratianno,1,2,3,0.605
+CaseyKasem_5,Casey Kasem,1,2,3,0.745
+CaseyKasem_15,Casey Kasem,1,2,3,0.67
+Prince Philip_2,Prince Philip,0,2,3,0.68
+Prince Philip_3,Prince Philip,0,2,3,0.505
+Prince Philip_1,Prince Philip,0,2,3,0.69
+PaulinePhillips_10,Pauline Phillips,1,2,4,0.805
+antonyflew_5_1,Antony Flew,1,2,4,0.39
+antonyflew_10,Antony Flew,1,2,4,0.375
+antonyflew_5_2,Antony Flew,1,2,4,0.52
+jimmclean_10,Jim McLean,1,2,4,0.225
+OtisChandler_5,Otis Chandler,1,2,4,0.68
+JamesStewart_5,James Stewart,1,2,4,0.495
+BarryCohen_5,Barry Cohen,1,2,4,0.39
+JimNeidhart_10,Jim Neidhart,1,2,4,0.7
+JimNeidhart_15,Jim Neidhart,1,2,4,0.385
+JimNeidhart_0,Jim Neidhart,1,2,4,0.59
+TeresaGorman_10,Teresa Gorman,1,2,4,0.495
+TerryPratchett_0,Terry Pratchett,1,2,4,0.46
+TerryPratchett_5,Terry Pratchett,1,2,4,0.195
+ronano'rahilly_15_2,Ronan O'Rahilly,1,2,4,0.54
+ronano'rahilly_15_1,Ronan O'Rahilly,1,2,4,0.465
+JackWebster_10,Jack Webster,1,2,4,0.505
+JackWebster_5,Jack Webster,1,2,4,0.315
+StanBowles_5,Stan Bowles,1,2,4,0.25
+RayDolby_0,Ray Dolby,1,2,4,0.51
+RayDolby_10,Ray Dolby,1,2,4,0.825
+PeterMax_10,Peter Max,1,2,4,0.435
+PeterMax_15,Peter Max,1,2,4,0.685
+TerryRiley_3,Terry Riley,0,2,4,0.43
+TerryRiley_2,Terry Riley,0,2,4,0.29
+YokoOno_2,Yoko Ono,0,2,4,0.245
+YokoOno_1,Yoko Ono,0,2,4,0.42
+YokoOno_3,Yoko Ono,0,2,4,0.435
+james earl jones_2,James Earl Jones,0,2,4,0.67
+james earl jones_1,James Earl Jones,0,2,4,0.305
+MartinLandau_2,Martin Landau,0,2,4,0.46
+MartinLandau_1,Martin Landau,0,2,4,0.4
+MartinLandau_3,Martin Landau,0,2,4,0.39
+SophiaLoren_2,Sophia Loren,0,2,4,0.19
+SophiaLoren_1,Sophia Loren,0,2,4,0.32
+JaneFonda_3,Jane Fonda,0,2,4,0.41
+Jane Fonda_1,Jane Fonda,0,2,4,0.3
+Clint Eastwood_1,Clint Eastwood,0,2,4,0.66
+Clint Eastwood_3,Clint Eastwood,0,2,4,0.4
+Clint Eastwood_2,Clint Eastwood,0,2,4,0.33
+JohnWilliams_2,John Williams,0,2,4,0.335
+JohnWilliams_3,John Williams,0,2,4,0.385
+JohnWilliams_1,John Williams,0,2,4,0.575
+PeterLupus_2,Peter Lupus,0,2,4,0.59
+BuddyGuy_2,Buddy Guy,0,2,4,0.3
+BuddyGuy_3,Buddy Guy,0,2,4,0.2
+JimmyCalderwood_5,Jimmy Calderwood,1,2,4,0.635
+ErnieSigley_15,Ernie Sigley,1,2,4,0.255
+Morgen Freeman_1,Morgen Freeman,0,2,4,0.495
+Morgen Freeman_3,Morgen Freeman,0,2,4,0.39
+Morgen Freeman_2,Morgen Freeman,0,2,4,0.305
+Queen Elisabeth_3,Queen Elisabeth,0,2,4,0.34
+CharlesAznavour_3,Charles Aznavour,0,2,4,0.34
+CharlesAznavour_1,Charles Aznavour,0,2,4,0.535
+CharlesAznavour_2,Charles Aznavour,0,2,4,0.645
+maureenforrester_5,Maureen Forrester,1,3,0,0.545
+SteveLawrence_15,Steve Lawrence,1,3,0,0.84
+jimmclean_10,Jim McLean,1,3,0,0.215
+PeterFalk_10,Peter Falk,1,3,0,0.445
+PeterFalk_15,Peter Falk,1,3,0,0.665
+andrewsachs_15,Andrew Sachs,1,3,0,0.415
+andrewsachs_10,Andrew Sachs,1,3,0,0.43
+georgeklein_5_1,George Klein,1,3,0,0.31
+georgeklein_5_3,George Klein,1,3,0,0.575
+georgeklein_5_2,George Klein,1,3,0,0.22
+alanramsey_10,Alan Ramsey,1,3,0,0.38
+OmarSharif_0,Omar Sharif,1,3,0,0.515
+OmarSharif_10,Omar Sharif,1,3,0,0.485
+TerryPratchett_0,Terry Pratchett,1,3,0,0.52
+TerryPratchett_5,Terry Pratchett,1,3,0,0.355
+UnitaBlackwell_15,Unita Blackwell,1,3,0,0.8
+RobertAnderson_10,Robert Anderson,1,3,0,0.855
+SparkyAnderson_0,Sparky Anderson,1,3,0,0.725
+RonaldReagan_5,Ronald Reagan,1,3,0,0.9
+RonaldReagan_10,Ronald Reagan,1,3,0,0.885
+DonLane_0,Don Lane,1,3,0,0.515
+Jimmy carter_3,Jimmy Carter,0,3,0,0.42
+Jimmy carter_2,Jimmy Carter,0,3,0,0.27
+WilliamShatner_3,William Shatner,0,3,0,0.34
+WilliamShatner_1,William Shatner,0,3,0,0.39
+WilliamShatner_2,William Shatner,0,3,0,0.27
+Angela Lansbury_1,Angela Lansbury,0,3,0,0.265
+Angela Lansbury_3,Angela Lansbury,0,3,0,0.455
+Angela Lansbury_2,Angela Lansbury,0,3,0,0.83
+dick van dyke_1,Dick van Dyke,0,3,0,0.49
+dick van dyke_3,Dick van Dyke,0,3,0,0.365
+JohnWilliams_2,John Williams,0,3,0,0.33
+JohnWilliams_3,John Williams,0,3,0,0.47
+JohnWilliams_1,John Williams,0,3,0,0.58
+RogerMoore_3,Roger Moore,0,3,0,0.595
+RogerMoore_1,Roger Moore,0,3,0,0.25
+RogerMoore_2,Roger Moore,0,3,0,0.32
+sidney poiter_2,Sidney Poiter,0,3,0,0.475
+sidney poiter_1,Sidney Poiter,0,3,0,0.445
+sidney poiter_3,Sidney Poiter,0,3,0,0.225
+KarlLagerfeld_2,Karl Lagerfeld,0,3,0,0.56
+KarlLagerfeld_3,Karl Lagerfeld,0,3,0,0.4
+NanaMouskouri_1,Nana Mouskouri,0,3,0,0.31
+NanaMouskouri_3,Nana Mouskouri,0,3,0,0.205
+BillBuckner_5,Bill Buckner,1,3,0,0.485
+BillBuckner_10,Bill Buckner,1,3,0,0.185
+BillBuckner_15,Bill Buckner,1,3,0,0.34
+ErnieSigley_15,Ernie Sigley,1,3,0,0.195
+Stan Lee_3,Stan Lee,0,3,0,0.305
+Stan Lee_2,Stan Lee,0,3,0,0.205
+Stan Lee_1,Stan Lee,0,3,0,0.32
+Morgen Freeman_1,Morgen Freeman,0,3,0,0.625
+Morgen Freeman_3,Morgen Freeman,0,3,0,0.375
+Morgen Freeman_2,Morgen Freeman,0,3,0,0.235
+Queen Elisabeth_3,Queen Elisabeth,0,3,0,0.62
+aileenhernandez_0,Aileen Hernandez,1,3,1,0.445
+aileenhernandez_5_1,Aileen Hernandez,1,3,1,0.57
+aileenhernandez_5_2,Aileen Hernandez,1,3,1,0.655
+PaulinePhillips_10,Pauline Phillips,1,3,1,0.625
+emilegriffith_5,Emile Griffith,1,3,1,0.35
+AllanBurns_5,Allan Burns,1,3,1,0.885
+paulhornung_10,Paul Hornung,1,3,1,0.43
+paulhornung_0,Paul Hornung,1,3,1,0.58
+JamesStewart_5,James Stewart,1,3,1,0.475
+DonaldSterling_5,Donald Sterling,1,3,1,0.625
+DavidMilch_10,David Milch,1,3,1,0.685
+DavidMilch_15,David Milch,1,3,1,0.455
+JimNeidhart_10,Jim Neidhart,1,3,1,0.62
+JimNeidhart_15,Jim Neidhart,1,3,1,0.35
+JimNeidhart_0,Jim Neidhart,1,3,1,0.64
+peterreveen_15,Peter Reveen,1,3,1,0.465
+TonyParkes_5,Tony Parkes,1,3,1,0.415
+TonyParkes_10,Tony Parkes,1,3,1,0.52
+RayDolby_0,Ray Dolby,1,3,1,0.85
+RayDolby_10,Ray Dolby,1,3,1,0.835
+AbeBurrows_5,Abe Burrows,1,3,1,0.655
+PeterMax_10,Peter Max,1,3,1,0.485
+PeterMax_15,Peter Max,1,3,1,0.505
+Warren Buffett_1,Warren Buffett,0,3,1,0.42
+WarrenBuffett_3,Warren Buffett,0,3,1,0.185
+Warren Buffett_2,Warren Buffett,0,3,1,0.6
+HarryBelafonte_2,Harry Belafonte,0,3,1,0.48
+HarryBelafonte_3,Harry Belafonte,0,3,1,0.605
+HarryBelafonte_1,Harry Belafonte,0,3,1,0.25
+MaxvonSydow_1,Max von Sydow,0,3,1,0.52
+MaxvonSydow_3,Max von Sydow,0,3,1,0.425
+james earl jones_2,James Earl Jones,0,3,1,0.555
+james earl jones_1,James Earl Jones,0,3,1,0.535
+MartinLandau_2,Martin Landau,0,3,1,0.605
+MartinLandau_1,Martin Landau,0,3,1,0.365
+MartinLandau_3,Martin Landau,0,3,1,0.485
+MilosForman_3,Milos Forman,0,3,1,0.3
+MilosForman_1,Milos Forman,0,3,1,0.355
+MilosForman_2,Milos Forman,0,3,1,0.485
+Burt Bacharach_3,Burt Bacharach,0,3,1,0.505
+Burt Bacharach_2,Burt Bacharach,0,3,1,0.515
+Burt Bacharach_1,Burt Bacharach,0,3,1,0.18
+AlanArkin_3,Alan Arkin,0,3,1,0.305
+AlanArkin_1,Alan Arkin,0,3,1,0.515
+BuddyGuy_2,Buddy Guy,0,3,1,0.415
+BuddyGuy_3,Buddy Guy,0,3,1,0.235
+JimmyCalderwood_5,Jimmy Calderwood,1,3,1,0.595
+IanHolm_2,Ian Holm,1,3,1,0.48
+JimmyFratianno_0,Jimmy Fratianno,1,3,1,0.595
+Prince Philip_2,Prince Philip,0,3,1,0.775
+Prince Philip_3,Prince Philip,0,3,1,0.405
+Prince Philip_1,Prince Philip,0,3,1,0.765
+DonaldSutherland_3,Donald Sutherland,0,3,1,0.505
+DonaldSutherland_2,Donald Sutherland,0,3,1,0.355
+DonaldSutherland_1,Donald Sutherland,0,3,1,0.295
+antonyflew_5_1,Antony Flew,1,3,2,0.36
+antonyflew_10,Antony Flew,1,3,2,0.375
+antonyflew_5_2,Antony Flew,1,3,2,0.675
+TimConway_5,Tim Conway,1,3,2,0.335
+TimConway_10,Tim Conway,1,3,2,0.91
+JackHanna_15,Jack Hanna,1,3,2,0.615
+JackHanna_10,Jack Hanna,1,3,2,0.365
+thomasdorsey_0,Thomas Dorsey,1,3,2,0.345
+EvelynKeyes_10,Evelyn Keyes,1,3,2,0.11
+EvelynKeyes_0,Evelyn Keyes,1,3,2,0.275
+TonyBennett_15,Tony Bennett,1,3,2,0.38
+TonyBennett_0,Tony Bennett,1,3,2,0.3
+georgerobb_10,George Robb,1,3,2,0.555
+jessehelms_0,Jesse Helms,1,3,2,0.52
+jessehelms_5_2,Jesse Helms,1,3,2,0.655
+jessehelms_5_1,Jesse Helms,1,3,2,0.08
+BenBradlee_15,Ben Bradlee,1,3,2,0.355
+BenBradlee_5,Ben Bradlee,1,3,2,0.74
+ianmccaskill_15,Ian McCaskill,1,3,2,0.165
+TerryRiley_3,Terry Riley,0,3,2,0.43
+TerryRiley_2,Terry Riley,0,3,2,0.445
+Kirk Douglas_1,Kirk Douglas,0,3,2,0.305
+Kirk Douglas_2,Kirk Douglas,0,3,2,0.24
+Kirk Douglas_3,Kirk Douglas,0,3,2,0.705
+Judi Dench_3,Judi Dench,0,3,2,0.215
+Judi Dench_2,Judi Dench,0,3,2,0.37
+DickVanPatten_3,Dick van Patten,0,3,2,0.665
+DickVanPatten_1,Dick van Patten,0,3,2,0.24
+bobbarker_2,Bob Barker,0,3,2,0.575
+bobbarker_3,Bob Barker,0,3,2,0.235
+David Attenboroug_3,David Attenboroug,0,3,2,0.715
+Betty White_2,Betty White,0,3,2,0.245
+Betty White_1,Betty White,0,3,2,0.605
+Betty White_3,Betty White,0,3,2,0.465
+WalterMondale_3,Walter Mondale,0,3,2,0.265
+RosalynnCarter_1,Rosalynn Carter,0,3,2,0.885
+RosalynnCarter_3,Rosalynn Carter,0,3,2,0.65
+RosalynnCarter_2,Rosalynn Carter,0,3,2,0.47
+CharmianCarr_15,Charmian Carr,1,3,2,0.66
+CharmianCarr_5,Charmian Carr,1,3,2,0.605
+annettemichelson_15,Annette Michelson,1,3,2,0.41
+JonathanMiller_5,Jonathan Miller,1,3,2,0.805
+JoeConley_0,Joe Conley,1,3,2,0.51
+LeroneBennettJr_10,Lerone Bennett Jr,1,3,2,0.75
+BillWyman_1,Bill Wyman,0,3,2,0.125
+BillWyman_3,Bill Wyman,0,3,2,0.38
+BillWyman_2,Bill Wyman,0,3,2,0.615
+JeanneMoreau_3,Jeanne Moreau,0,3,2,0.365
+JeanneMoreau_1,Jeanne Moreau,0,3,2,0.355
+AnthonyHopkins_1,Anthony Hopkins,0,3,2,0.24
+AnthonyHopkins_2,Anthony Hopkins,0,3,2,0.28
+AnthonyHopkins_3,Anthony Hopkins,0,3,2,0.245
+CharlesAznavour_3,Charles Aznavour,0,3,2,0.4
+CharlesAznavour_1,Charles Aznavour,0,3,2,0.39
+CharlesAznavour_2,Charles Aznavour,0,3,2,0.725
+terryjones_5,Terry Jones,1,3,3,0.605
+BobbyWomack_0,Bobby Womack,1,3,3,0.365
+johnmackey_15_1,John Mackey,1,3,3,0.66
+johnmackey_15_2,John Mackey,1,3,3,0.415
+OtisChandler_5,Otis Chandler,1,3,3,0.645
+mauricehinchey_5,Maurice Hinchey,1,3,3,0.22
+mauricehinchey_0_1,Maurice Hinchey,1,3,3,0.235
+mauricehinchey_0_2,Maurice Hinchey,1,3,3,0.525
+galesayers_5_1,Gale Sayers,1,3,3,0.215
+galesayers_5_2,Gale Sayers,1,3,3,0.56
+galesayers_0,Gale Sayers,1,3,3,0.51
+RichardGwyn_0,Richard Gwyn,1,3,3,0.365
+RichardGwyn_5,Richard Gwyn,1,3,3,0.82
+GregFingersTaylor_10,Greg Fingers Taylor,1,3,3,0.855
+StellaStevens_15,Stella Stevens,1,3,3,0.285
+patpariseau_10_1,Pat Pariseau,1,3,3,0.64
+patpariseau_10_2,Pat Pariseau,1,3,3,0.465
+ralphklein_5_2,Ralph Klein,1,3,3,0.345
+ralphklein_5_1,Ralph Klein,1,3,3,0.365
+TrevorPeacock_5,Trevor Peacock,1,3,3,0.65
+JeanneLittle_10,Jeanne Little,1,3,3,0.675
+YokoOno_2,Yoko Ono,0,3,3,0.32
+YokoOno_1,Yoko Ono,0,3,3,0.4
+YokoOno_3,Yoko Ono,0,3,3,0.42
+JerryLewis3,Jerry Lewis,0,3,3,0.57
+JerryLewis2,Jerry Lewis,0,3,3,0.56
+JerryLewis1,Jerry Lewis,0,3,3,0.155
+MichaelDukakis_3,Michael Dukakis,0,3,3,0.315
+MichaelDukakis_1,Michael Dukakis,0,3,3,0.335
+RichardDonner_2,Richard Donner,0,3,3,0.3
+RichardDonner_3,Richard Donner,0,3,3,0.285
+DavidMcCallum_1,David McCallum,0,3,3,0.47
+DavidMcCallum_3,David McCallum,0,3,3,0.54
+SophiaLoren_2,Sophia Loren,0,3,3,0.17
+SophiaLoren_1,Sophia Loren,0,3,3,0.255
+JaneFonda_3,Jane Fonda,0,3,3,0.375
+Jane Fonda_1,Jane Fonda,0,3,3,0.29
+HankAaron_1,Hank Aaron,0,3,3,0.505
+HankAaron_3,Hank Aaron,0,3,3,0.61
+HankAaron_2,Hank Aaron,0,3,3,0.255
+BobDole_2,Bob Dole,0,3,3,0.665
+BobDole_3,Bob Dole,0,3,3,0.425
+BobDole_1,Bob Dole,0,3,3,0.68
+GeneHackman_2,Gene Hackman,0,3,3,0.23
+GeneHackman_1,Gene Hackman,0,3,3,0.39
+GeneHackman_3,Gene Hackman,0,3,3,0.43
+RobertDuvall_3,Robert Duvall,0,3,3,0.64
+RobertDuvall_1,Robert Duvall,0,3,3,0.36
+RobertDuvall_2,Robert Duvall,0,3,3,0.45
+vivnicholson_5,Viv Nicholson,1,3,3,0.375
+CaseyKasem_5,Casey Kasem,1,3,3,0.745
+CaseyKasem_15,Casey Kasem,1,3,3,0.405
+EstelleGetty_15,Estelle Getty,1,3,3,0.555
+GeorgeHWBush_3,George H W Bush,0,3,3,0.37
+GeorgeHWBush_2,George H W Bush,0,3,3,0.59
+daningram_15,Dan Ingram,1,3,4,0.515
+RayGalton_5,Ray Galton,1,3,4,0.175
+DavidProwse_10,David Prowse,1,3,4,0.79
+DavidProwse_5,David Prowse,1,3,4,0.245
+DavidProwse_0,David Prowse,1,3,4,0.415
+CharlesKKao_0,Charles K Kao,1,3,4,0.665
+BarryCohen_5,Barry Cohen,1,3,4,0.385
+DennisMoore_5,Dennis Moore,1,3,4,0.805
+TedTurner_5,Ted Turner,1,3,4,0.59
+TedTurner_0,Ted Turner,1,3,4,0.3
+CharlesBronson_15,Charles Bronson,1,3,4,0.485
+CharlesBronson_10,Charles Bronson,1,3,4,0.56
+IrisMurdoch_10,Iris Murdoch,1,3,4,0.295
+IrisMurdoch_5,Iris Murdoch,1,3,4,0.23
+TeresaGorman_10,Teresa Gorman,1,3,4,0.405
+ronano'rahilly_15_2,Ronan O'Rahilly,1,3,4,0.635
+ronano'rahilly_15_1,Ronan O'Rahilly,1,3,4,0.56
+leonredbone_15,Leon Redbone,1,3,4,0.67
+JackWebster_10,Jack Webster,1,3,4,0.19
+JackWebster_5,Jack Webster,1,3,4,0.295
+StanBowles_5,Stan Bowles,1,3,4,0.125
+woodydurham_0_2,Woody Durham,1,3,4,0.29
+RobertWagner_3,Robert Wagner,0,3,4,0.3
+RobertWagner_2,Robert Wagner,0,3,4,0.72
+Mel brooks_3,Mel brooks,0,3,4,0.48
+Mel brooks_2,Mel brooks,0,3,4,0.31
+Mel brooks_1,Mel brooks,0,3,4,0.315
+DominicChianese_3,Dominic Chianese,0,3,4,0.27
+christopher plummer_3,Christopher Plummer,0,3,4,0.485
+christopher plummer_1,Christopher Plummer,0,3,4,0.3
+christopher plummer_2,Christopher Plummer,0,3,4,0.545
+RupertMurdoch_1,Rupert Murdoch,0,3,4,0.46
+RupertMurdoch_3,Rupert Murdoch,0,3,4,0.17
+RupertMurdoch_2,Rupert Murdoch,0,3,4,0.465
+Clint Eastwood_1,Clint Eastwood,0,3,4,0.575
+Clint Eastwood_3,Clint Eastwood,0,3,4,0.245
+Clint Eastwood_2,Clint Eastwood,0,3,4,0.59
+JohnnyMathis_3,Johnny Mathis,0,3,4,0.52
+Johnny Mathis_2,Johnny Mathis,0,3,4,0.41
+Michael Caine_3,Michael Caine,0,3,4,0.19
+Michael Caine_1,Michael Caine,0,3,4,0.635
+Michael Caine_2,Michael Caine,0,3,4,0.245
+SteveReich_2,Steve Reich,0,3,4,0.835
+SteveReich_3,Steve Reich,0,3,4,0.22
+JoanCollins_1,Joan Collins,0,3,4,0.255
+JoanCollins_2,Joan Collins,0,3,4,0.2
+JoanCollins_3,Joan Collins,0,3,4,0.64
+PeterLupus_2,Peter Lupus,0,3,4,0.72
+BobNewhart_2,Bob Newhart,0,3,4,0.54
+BobNewhart_3,Bob Newhart,0,3,4,0.28
+bbking_10,B B King,1,3,4,0.16
+bbking_15,B B King,1,3,4,0.655
+bbking_0,B B King,1,3,4,0.44
+DickCavett_1,Dick Cavett,0,3,4,0.275
+DickCavett_3,Dick Cavett,0,3,4,0.645
+daningram_15,Dan Ingram,1,4,0,0.4
+PaulinePhillips_10,Pauline Phillips,1,4,0,0.82
+DavidProwse_10,David Prowse,1,4,0,0.84
+DavidProwse_5,David Prowse,1,4,0,0.24
+DavidProwse_0,David Prowse,1,4,0,0.445
+JamesStewart_5,James Stewart,1,4,0,0.495
+DonaldSterling_5,Donald Sterling,1,4,0,0.765
+TedTurner_5,Ted Turner,1,4,0,0.465
+TedTurner_0,Ted Turner,1,4,0,0.31
+CharlesBronson_15,Charles Bronson,1,4,0,0.485
+CharlesBronson_10,Charles Bronson,1,4,0,0.44
+GregFingersTaylor_10,Greg Fingers Taylor,1,4,0,0.845
+peterreveen_15,Peter Reveen,1,4,0,0.62
+patpariseau_10_1,Pat Pariseau,1,4,0,0.535
+patpariseau_10_2,Pat Pariseau,1,4,0,0.385
+TerryPratchett_0,Terry Pratchett,1,4,0,0.505
+TerryPratchett_5,Terry Pratchett,1,4,0,0.27
+jessehelms_0,Jesse Helms,1,4,0,0.41
+jessehelms_5_2,Jesse Helms,1,4,0,0.58
+jessehelms_5_1,Jesse Helms,1,4,0,0.11
+TrevorPeacock_5,Trevor Peacock,1,4,0,0.74
+SparkyAnderson_0,Sparky Anderson,1,4,0,0.63
+TerryRiley_3,Terry Riley,0,4,0,0.44
+TerryRiley_2,Terry Riley,0,4,0,0.42
+HarryBelafonte_2,Harry Belafonte,0,4,0,0.325
+HarryBelafonte_3,Harry Belafonte,0,4,0,0.56
+HarryBelafonte_1,Harry Belafonte,0,4,0,0.29
+JerryLewis3,Jerry Lewis,0,4,0,0.575
+JerryLewis2,Jerry Lewis,0,4,0,0.59
+JerryLewis1,Jerry Lewis,0,4,0,0.135
+SteveReich_2,Steve Reich,0,4,0,0.755
+SteveReich_3,Steve Reich,0,4,0,0.4
+JohnWilliams_2,John Williams,0,4,0,0.285
+JohnWilliams_3,John Williams,0,4,0,0.305
+JohnWilliams_1,John Williams,0,4,0,0.55
+BobDole_2,Bob Dole,0,4,0,0.835
+BobDole_3,Bob Dole,0,4,0,0.495
+BobDole_1,Bob Dole,0,4,0,0.56
+RobertDuvall_3,Robert Duvall,0,4,0,0.475
+RobertDuvall_1,Robert Duvall,0,4,0,0.565
+RobertDuvall_2,Robert Duvall,0,4,0,0.515
+DickVanPatten_3,Dick van Patten,0,4,0,0.69
+DickVanPatten_1,Dick van Patten,0,4,0,0.35
+BuddyGuy_2,Buddy Guy,0,4,0,0.48
+BuddyGuy_3,Buddy Guy,0,4,0,0.245
+CaseyKasem_5,Casey Kasem,1,4,0,0.625
+CaseyKasem_15,Casey Kasem,1,4,0,0.655
+EstelleGetty_15,Estelle Getty,1,4,0,0.5
+BillWyman_1,Bill Wyman,0,4,0,0.175
+BillWyman_3,Bill Wyman,0,4,0,0.24
+BillWyman_2,Bill Wyman,0,4,0,0.59
+Stan Lee_3,Stan Lee,0,4,0,0.32
+Stan Lee_2,Stan Lee,0,4,0,0.165
+Stan Lee_1,Stan Lee,0,4,0,0.48
+Queen Elisabeth_3,Queen Elisabeth,0,4,0,0.54
+terryjones_5,Terry Jones,1,4,1,0.615
+SteveLawrence_15,Steve Lawrence,1,4,1,0.885
+RayGalton_5,Ray Galton,1,4,1,0.3
+BobbyWomack_0,Bobby Womack,1,4,1,0.45
+antonyflew_5_1,Antony Flew,1,4,1,0.315
+antonyflew_10,Antony Flew,1,4,1,0.38
+antonyflew_5_2,Antony Flew,1,4,1,0.595
+johnmackey_15_1,John Mackey,1,4,1,0.615
+johnmackey_15_2,John Mackey,1,4,1,0.4
+paulhornung_10,Paul Hornung,1,4,1,0.355
+paulhornung_0,Paul Hornung,1,4,1,0.365
+georgeklein_5_1,George Klein,1,4,1,0.315
+georgeklein_5_3,George Klein,1,4,1,0.41
+georgeklein_5_2,George Klein,1,4,1,0.26
+StellaStevens_15,Stella Stevens,1,4,1,0.21
+ronano'rahilly_15_2,Ronan O'Rahilly,1,4,1,0.635
+ronano'rahilly_15_1,Ronan O'Rahilly,1,4,1,0.44
+UnitaBlackwell_15,Unita Blackwell,1,4,1,0.805
+ralphklein_5_2,Ralph Klein,1,4,1,0.405
+ralphklein_5_1,Ralph Klein,1,4,1,0.345
+woodydurham_0_2,Woody Durham,1,4,1,0.55
+Kirk Douglas_1,Kirk Douglas,0,4,1,0.305
+Kirk Douglas_2,Kirk Douglas,0,4,1,0.245
+Kirk Douglas_3,Kirk Douglas,0,4,1,0.69
+MaxvonSydow_1,Max von Sydow,0,4,1,0.57
+MaxvonSydow_3,Max von Sydow,0,4,1,0.34
+james earl jones_2,James Earl Jones,0,4,1,0.605
+james earl jones_1,James Earl Jones,0,4,1,0.29
+Angela Lansbury_1,Angela Lansbury,0,4,1,0.365
+Angela Lansbury_3,Angela Lansbury,0,4,1,0.345
+Angela Lansbury_2,Angela Lansbury,0,4,1,0.825
+JaneFonda_3,Jane Fonda,0,4,1,0.32
+Jane Fonda_1,Jane Fonda,0,4,1,0.34
+dick van dyke_1,Dick van Dyke,0,4,1,0.57
+dick van dyke_3,Dick van Dyke,0,4,1,0.44
+Michael Caine_3,Michael Caine,0,4,1,0.245
+Michael Caine_1,Michael Caine,0,4,1,0.4
+Michael Caine_2,Michael Caine,0,4,1,0.3
+Burt Bacharach_3,Burt Bacharach,0,4,1,0.455
+Burt Bacharach_2,Burt Bacharach,0,4,1,0.26
+Burt Bacharach_1,Burt Bacharach,0,4,1,0.225
+JoanCollins_1,Joan Collins,0,4,1,0.335
+JoanCollins_2,Joan Collins,0,4,1,0.345
+JoanCollins_3,Joan Collins,0,4,1,0.525
+sidney poiter_2,Sidney Poiter,0,4,1,0.3
+sidney poiter_1,Sidney Poiter,0,4,1,0.625
+sidney poiter_3,Sidney Poiter,0,4,1,0.22
+vivnicholson_5,Viv Nicholson,1,4,1,0.535
+CharmianCarr_15,Charmian Carr,1,4,1,0.94
+CharmianCarr_5,Charmian Carr,1,4,1,0.615
+JoeConley_0,Joe Conley,1,4,1,0.585
+LeroneBennettJr_10,Lerone Bennett Jr,1,4,1,0.84
+DonaldSutherland_3,Donald Sutherland,0,4,1,0.34
+DonaldSutherland_2,Donald Sutherland,0,4,1,0.575
+DonaldSutherland_1,Donald Sutherland,0,4,1,0.38
+maureenforrester_5,Maureen Forrester,1,4,2,0.45
+TimConway_5,Tim Conway,1,4,2,0.45
+TimConway_10,Tim Conway,1,4,2,0.915
+galesayers_5_1,Gale Sayers,1,4,2,0.43
+galesayers_5_2,Gale Sayers,1,4,2,0.55
+galesayers_0,Gale Sayers,1,4,2,0.435
+EvelynKeyes_10,Evelyn Keyes,1,4,2,0.115
+EvelynKeyes_0,Evelyn Keyes,1,4,2,0.125
+TonyBennett_15,Tony Bennett,1,4,2,0.305
+TonyBennett_0,Tony Bennett,1,4,2,0.205
+TeresaGorman_10,Teresa Gorman,1,4,2,0.43
+BenBradlee_15,Ben Bradlee,1,4,2,0.265
+BenBradlee_5,Ben Bradlee,1,4,2,0.725
+RayDolby_0,Ray Dolby,1,4,2,0.635
+RayDolby_10,Ray Dolby,1,4,2,0.855
+ianmccaskill_15,Ian McCaskill,1,4,2,0.155
+AbeBurrows_5,Abe Burrows,1,4,2,0.595
+PeterMax_10,Peter Max,1,4,2,0.35
+PeterMax_15,Peter Max,1,4,2,0.525
+christopher plummer_3,Christopher Plummer,0,4,2,0.525
+christopher plummer_1,Christopher Plummer,0,4,2,0.27
+christopher plummer_2,Christopher Plummer,0,4,2,0.52
+RupertMurdoch_1,Rupert Murdoch,0,4,2,0.505
+RupertMurdoch_3,Rupert Murdoch,0,4,2,0.22
+RupertMurdoch_2,Rupert Murdoch,0,4,2,0.33
+DavidMcCallum_1,David McCallum,0,4,2,0.61
+DavidMcCallum_3,David McCallum,0,4,2,0.42
+MartinLandau_2,Martin Landau,0,4,2,0.31
+MartinLandau_1,Martin Landau,0,4,2,0.375
+MartinLandau_3,Martin Landau,0,4,2,0.495
+SophiaLoren_2,Sophia Loren,0,4,2,0.145
+SophiaLoren_1,Sophia Loren,0,4,2,0.205
+Clint Eastwood_1,Clint Eastwood,0,4,2,0.675
+Clint Eastwood_3,Clint Eastwood,0,4,2,0.5
+Clint Eastwood_2,Clint Eastwood,0,4,2,0.515
+PeterLupus_2,Peter Lupus,0,4,2,0.62
+GeneHackman_2,Gene Hackman,0,4,2,0.275
+GeneHackman_1,Gene Hackman,0,4,2,0.37
+GeneHackman_3,Gene Hackman,0,4,2,0.135
+David Attenboroug_3,David Attenboroug,0,4,2,0.81
+NanaMouskouri_1,Nana Mouskouri,0,4,2,0.315
+NanaMouskouri_3,Nana Mouskouri,0,4,2,0.545
+JimmyCalderwood_5,Jimmy Calderwood,1,4,2,0.66
+BillBuckner_5,Bill Buckner,1,4,2,0.465
+BillBuckner_10,Bill Buckner,1,4,2,0.245
+BillBuckner_15,Bill Buckner,1,4,2,0.4
+ErnieSigley_15,Ernie Sigley,1,4,2,0.485
+JimmyFratianno_0,Jimmy Fratianno,1,4,2,0.755
+JeanneMoreau_3,Jeanne Moreau,0,4,2,0.35
+JeanneMoreau_1,Jeanne Moreau,0,4,2,0.365
+DickCavett_1,Dick Cavett,0,4,2,0.24
+DickCavett_3,Dick Cavett,0,4,2,0.54
+AnthonyHopkins_1,Anthony Hopkins,0,4,2,0.395
+AnthonyHopkins_2,Anthony Hopkins,0,4,2,0.31
+AnthonyHopkins_3,Anthony Hopkins,0,4,2,0.175
+aileenhernandez_0,Aileen Hernandez,1,4,3,0.315
+aileenhernandez_5_1,Aileen Hernandez,1,4,3,0.565
+aileenhernandez_5_2,Aileen Hernandez,1,4,3,0.57
+emilegriffith_5,Emile Griffith,1,4,3,0.42
+AllanBurns_5,Allan Burns,1,4,3,0.875
+OtisChandler_5,Otis Chandler,1,4,3,0.71
+PeterFalk_10,Peter Falk,1,4,3,0.425
+PeterFalk_15,Peter Falk,1,4,3,0.745
+mauricehinchey_5,Maurice Hinchey,1,4,3,0.225
+mauricehinchey_0_1,Maurice Hinchey,1,4,3,0.225
+mauricehinchey_0_2,Maurice Hinchey,1,4,3,0.5
+CharlesKKao_0,Charles K Kao,1,4,3,0.795
+alanramsey_10,Alan Ramsey,1,4,3,0.305
+DavidMilch_10,David Milch,1,4,3,0.74
+DavidMilch_15,David Milch,1,4,3,0.6
+OmarSharif_0,Omar Sharif,1,4,3,0.475
+OmarSharif_10,Omar Sharif,1,4,3,0.405
+georgerobb_10,George Robb,1,4,3,0.555
+RobertAnderson_10,Robert Anderson,1,4,3,0.715
+JackWebster_10,Jack Webster,1,4,3,0.26
+JackWebster_5,Jack Webster,1,4,3,0.305
+JeanneLittle_10,Jeanne Little,1,4,3,0.65
+RonaldReagan_5,Ronald Reagan,1,4,3,0.735
+RonaldReagan_10,Ronald Reagan,1,4,3,0.79
+DonLane_0,Don Lane,1,4,3,0.68
+RobertWagner_3,Robert Wagner,0,4,3,0.29
+RobertWagner_2,Robert Wagner,0,4,3,0.71
+Mel brooks_3,Mel brooks,0,4,3,0.56
+Mel brooks_2,Mel brooks,0,4,3,0.33
+Mel brooks_1,Mel brooks,0,4,3,0.31
+YokoOno_2,Yoko Ono,0,4,3,0.2
+YokoOno_1,Yoko Ono,0,4,3,0.315
+YokoOno_3,Yoko Ono,0,4,3,0.41
+Warren Buffett_1,Warren Buffett,0,4,3,0.49
+WarrenBuffett_3,Warren Buffett,0,4,3,0.31
+Warren Buffett_2,Warren Buffett,0,4,3,0.515
+Judi Dench_3,Judi Dench,0,4,3,0.255
+Judi Dench_2,Judi Dench,0,4,3,0.51
+MichaelDukakis_3,Michael Dukakis,0,4,3,0.205
+MichaelDukakis_1,Michael Dukakis,0,4,3,0.32
+Jimmy carter_3,Jimmy Carter,0,4,3,0.435
+Jimmy carter_2,Jimmy Carter,0,4,3,0.27
+WilliamShatner_3,William Shatner,0,4,3,0.455
+WilliamShatner_1,William Shatner,0,4,3,0.395
+WilliamShatner_2,William Shatner,0,4,3,0.14
+RichardDonner_2,Richard Donner,0,4,3,0.35
+RichardDonner_3,Richard Donner,0,4,3,0.495
+JohnnyMathis_3,Johnny Mathis,0,4,3,0.385
+Johnny Mathis_2,Johnny Mathis,0,4,3,0.365
+RogerMoore_3,Roger Moore,0,4,3,0.605
+RogerMoore_1,Roger Moore,0,4,3,0.365
+RogerMoore_2,Roger Moore,0,4,3,0.435
+CharlesAznavour_3,Charles Aznavour,0,4,3,0.24
+CharlesAznavour_1,Charles Aznavour,0,4,3,0.43
+CharlesAznavour_2,Charles Aznavour,0,4,3,0.67
+jimmclean_10,Jim McLean,1,4,4,0.2
+andrewsachs_15,Andrew Sachs,1,4,4,0.465
+andrewsachs_10,Andrew Sachs,1,4,4,0.38
+BarryCohen_5,Barry Cohen,1,4,4,0.34
+JackHanna_15,Jack Hanna,1,4,4,0.685
+JackHanna_10,Jack Hanna,1,4,4,0.3
+DennisMoore_5,Dennis Moore,1,4,4,0.845
+thomasdorsey_0,Thomas Dorsey,1,4,4,0.455
+IrisMurdoch_10,Iris Murdoch,1,4,4,0.275
+IrisMurdoch_5,Iris Murdoch,1,4,4,0.205
+RichardGwyn_0,Richard Gwyn,1,4,4,0.26
+RichardGwyn_5,Richard Gwyn,1,4,4,0.845
+JimNeidhart_10,Jim Neidhart,1,4,4,0.77
+JimNeidhart_15,Jim Neidhart,1,4,4,0.355
+JimNeidhart_0,Jim Neidhart,1,4,4,0.69
+TonyParkes_5,Tony Parkes,1,4,4,0.56
+TonyParkes_10,Tony Parkes,1,4,4,0.625
+leonredbone_15,Leon Redbone,1,4,4,0.86
+StanBowles_5,Stan Bowles,1,4,4,0.21
+DominicChianese_3,Dominic Chianese,0,4,4,0.23
+HankAaron_1,Hank Aaron,0,4,4,0.31
+HankAaron_3,Hank Aaron,0,4,4,0.76
+HankAaron_2,Hank Aaron,0,4,4,0.225
+MilosForman_3,Milos Forman,0,4,4,0.13
+MilosForman_1,Milos Forman,0,4,4,0.395
+MilosForman_2,Milos Forman,0,4,4,0.445
+AlanArkin_3,Alan Arkin,0,4,4,0.43
+AlanArkin_1,Alan Arkin,0,4,4,0.545
+bobbarker_2,Bob Barker,0,4,4,0.52
+bobbarker_3,Bob Barker,0,4,4,0.25
+KarlLagerfeld_2,Karl Lagerfeld,0,4,4,0.405
+KarlLagerfeld_3,Karl Lagerfeld,0,4,4,0.535
+Betty White_2,Betty White,0,4,4,0.295
+Betty White_1,Betty White,0,4,4,0.705
+Betty White_3,Betty White,0,4,4,0.735
+WalterMondale_3,Walter Mondale,0,4,4,0.4
+RosalynnCarter_1,Rosalynn Carter,0,4,4,0.85
+RosalynnCarter_3,Rosalynn Carter,0,4,4,0.61
+RosalynnCarter_2,Rosalynn Carter,0,4,4,0.58
+BobNewhart_2,Bob Newhart,0,4,4,0.545
+BobNewhart_3,Bob Newhart,0,4,4,0.395
+IanHolm_2,Ian Holm,1,4,4,0.28
+annettemichelson_15,Annette Michelson,1,4,4,0.465
+bbking_10,B B King,1,4,4,0.245
+bbking_15,B B King,1,4,4,0.695
+bbking_0,B B King,1,4,4,0.53
+JonathanMiller_5,Jonathan Miller,1,4,4,0.78
+Prince Philip_2,Prince Philip,0,4,4,0.555
+Prince Philip_3,Prince Philip,0,4,4,0.35
+Prince Philip_1,Prince Philip,0,4,4,0.52
+GeorgeHWBush_3,George H W Bush,0,4,4,0.315
+GeorgeHWBush_2,George H W Bush,0,4,4,0.665
+Morgen Freeman_1,Morgen Freeman,0,4,4,0.63
+Morgen Freeman_3,Morgen Freeman,0,4,4,0.345
+Morgen Freeman_2,Morgen Freeman,0,4,4,0.225

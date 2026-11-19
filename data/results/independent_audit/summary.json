@@ -1,0 +1,179 @@
+{
+  "source_commit": "98ebd6a",
+  "verified_predictions": 6875,
+  "verified_neural_folds": 125,
+  "quality_fold_auc_mean": 0.609879964633068,
+  "quality_fold_auc_sd": 0.06796201836853208,
+  "temporal": [
+    {
+      "experiment": "V_audio",
+      "n_speakers": 31,
+      "model_person_evaluations": 155,
+      "concordance": 0.4387096774193549,
+      "low": 0.3677419354838709,
+      "high": 0.5096774193548387,
+      "endpoint": 0.44516129032258067,
+      "endpoint_low": 0.37419354838709684,
+      "endpoint_high": 0.5161290322580645
+    },
+    {
+      "experiment": "V_cls",
+      "n_speakers": 31,
+      "model_person_evaluations": 155,
+      "concordance": 0.48602150537634414,
+      "low": 0.3956989247311828,
+      "high": 0.5784946236559139,
+      "endpoint": 0.48387096774193555,
+      "endpoint_low": 0.39354838709677425,
+      "endpoint_high": 0.5741935483870968
+    },
+    {
+      "experiment": "V_feat",
+      "n_speakers": 31,
+      "model_person_evaluations": 155,
+      "concordance": 0.49892473118279573,
+      "low": 0.42150537634408597,
+      "high": 0.5763978494623649,
+      "endpoint": 0.4903225806451613,
+      "endpoint_low": 0.4064516129032258,
+      "endpoint_high": 0.567741935483871
+    },
+    {
+      "experiment": "V_joint",
+      "n_speakers": 31,
+      "model_person_evaluations": 155,
+      "concordance": 0.6193548387096776,
+      "low": 0.503225806451613,
+      "high": 0.724731182795699,
+      "endpoint": 0.6258064516129033,
+      "endpoint_low": 0.5096774193548388,
+      "endpoint_high": 0.735483870967742
+    },
+    {
+      "experiment": "V_text",
+      "n_speakers": 31,
+      "model_person_evaluations": 155,
+      "concordance": 0.4774193548387096,
+      "low": 0.4043010752688172,
+      "high": 0.5483870967741934,
+      "endpoint": 0.4838709677419355,
+      "endpoint_low": 0.4064516129032258,
+      "endpoint_high": 0.5612903225806452
+    }
+  ],
+  "conditional_ensemble": [
+    {
+      "model": "V_audio",
+      "n_speakers": 141,
+      "auc": 0.6612704918032787,
+      "low": 0.5682325819672132,
+      "high": 0.7483709016393442,
+      "bac": 0.6344262295081967,
+      "brier": 0.23594511897562537
+    },
+    {
+      "model": "V_cls",
+      "n_speakers": 141,
+      "auc": 0.6766393442622951,
+      "low": 0.5866752049180328,
+      "high": 0.7668084016393442,
+      "bac": 0.6348360655737705,
+      "brier": 0.23535886651495896
+    },
+    {
+      "model": "V_feat",
+      "n_speakers": 141,
+      "auc": 0.542827868852459,
+      "low": 0.44671618852459016,
+      "high": 0.6407786885245902,
+      "bac": 0.5324795081967213,
+      "brier": 0.2537887713242501
+    },
+    {
+      "model": "V_joint",
+      "n_speakers": 141,
+      "auc": 0.6858606557377049,
+      "low": 0.5956967213114754,
+      "high": 0.7747950819672131,
+      "bac": 0.6223360655737705,
+      "brier": 0.23693379055022207
+    },
+    {
+      "model": "V_text",
+      "n_speakers": 141,
+      "auc": 0.6194672131147541,
+      "low": 0.5254098360655738,
+      "high": 0.7147592213114753,
+      "bac": 0.6184426229508196,
+      "brier": 0.24678162744198112
+    },
+    {
+      "model": "quality_RF",
+      "n_speakers": 141,
+      "auc": 0.6667008196721311,
+      "low": 0.5731531762295082,
+      "high": 0.7538934426229508,
+      "bac": 0.6641393442622952,
+      "brier": 0.2317947084318361
+    }
+  ],
+  "contrasts": [
+    {
+      "left": "V_joint",
+      "right": "V_cls",
+      "mean_difference": -0.002008275862068969,
+      "wins": 14,
+      "ties": 0,
+      "n": 25,
+      "seed_min": -0.0064028293545534964,
+      "seed_max": 0.007726259946949576,
+      "heuristic_low": -0.032024112530854514,
+      "heuristic_high": 0.028007560806716576
+    },
+    {
+      "left": "V_cls",
+      "right": "V_audio",
+      "mean_difference": 0.015499911582670218,
+      "wins": 15,
+      "ties": 0,
+      "n": 25,
+      "seed_min": -0.01143412908930146,
+      "seed_max": 0.045810079575596886,
+      "heuristic_low": -0.0477070372944527,
+      "heuristic_high": 0.07870686045979314
+    },
+    {
+      "left": "V_cls",
+      "right": "V_text",
+      "mean_difference": 0.04604746242263486,
+      "wins": 20,
+      "ties": 0,
+      "n": 25,
+      "seed_min": 0.010912113174182147,
+      "seed_max": 0.08893085764809908,
+      "heuristic_low": -0.021426133397512405,
+      "heuristic_high": 0.11352105824278214
+    },
+    {
+      "left": "V_joint",
+      "right": "V_feat",
+      "mean_difference": 0.09371770114942532,
+      "wins": 21,
+      "ties": 0,
+      "n": 25,
+      "seed_min": 0.07663306808134397,
+      "seed_max": 0.12131918656056587,
+      "heuristic_low": -0.004194460098934441,
+      "heuristic_high": 0.19162986239778507
+    }
+  ],
+  "proxy_training_rows": 5500,
+  "inner_feature_mismatches": 9,
+  "actual_quality_columns": [
+    "snr_db",
+    "loudness_dbfs",
+    "peak",
+    "bw99_hz",
+    "duration_s"
+  ]
+}

@@ -1,0 +1,276 @@
+file,speaker,label,seed,fold,experiment,model_id,scored_by_model,split,group_prob,prog_score
+daningram_15,Dan Ingram,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.52605176,0.06617199
+terryjones_5,Terry Jones,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.53254604,0.04636039
+maureenforrester_5,Maureen Forrester,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.41984484,0.016794078
+aileenhernandez_0,Aileen Hernandez,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4997835,-0.05418825
+aileenhernandez_5_1,Aileen Hernandez,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4461644,0.020217165
+aileenhernandez_5_2,Aileen Hernandez,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5137468,-0.010961935
+SteveLawrence_15,Steve Lawrence,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.4690231,-0.028890781
+RayGalton_5,Ray Galton,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5492656,0.040474445
+BobbyWomack_0,Bobby Womack,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.46261016,0.0067392737
+PaulinePhillips_10,Pauline Phillips,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5680404,0.048265263
+antonyflew_5_1,Antony Flew,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.5414664,-0.014804706
+antonyflew_10,Antony Flew,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.540591,-0.02987558
+antonyflew_5_2,Antony Flew,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.50168926,0.015385233
+emilegriffith_5,Emile Griffith,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.57215923,0.0053490996
+johnmackey_15_1,John Mackey,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5769734,0.01373525
+johnmackey_15_2,John Mackey,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.58576334,0.051494837
+DavidProwse_10,David Prowse,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.3833309,0.06803046
+DavidProwse_5,David Prowse,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.490868,0.0934941
+DavidProwse_0,David Prowse,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.4307778,0.06931889
+jimmclean_10,Jim McLean,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.51783395,0.019326441
+AllanBurns_5,Allan Burns,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.3498387,0.07845698
+OtisChandler_5,Otis Chandler,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.48417518,0.13652052
+PeterFalk_10,Peter Falk,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.3888208,0.07010408
+PeterFalk_15,Peter Falk,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.51907444,0.09790017
+mauricehinchey_5,Maurice Hinchey,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.65327126,0.03534831
+mauricehinchey_0_1,Maurice Hinchey,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.45776272,0.0928037
+mauricehinchey_0_2,Maurice Hinchey,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.6126825,0.05063282
+paulhornung_10,Paul Hornung,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4847013,0.031404495
+paulhornung_0,Paul Hornung,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.508183,-0.017364085
+JamesStewart_5,James Stewart,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.50962996,0.004482202
+andrewsachs_15,Andrew Sachs,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4134583,0.027989939
+andrewsachs_10,Andrew Sachs,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.45679873,0.091416076
+DonaldSterling_5,Donald Sterling,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.52619296,0.04752271
+TimConway_5,Tim Conway,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4909059,0.049330607
+TimConway_10,Tim Conway,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5869141,0.038999587
+georgeklein_5_1,George Klein,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.49293488,0.038113445
+georgeklein_5_3,George Klein,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.506024,0.021269113
+georgeklein_5_2,George Klein,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4059821,0.044025928
+CharlesKKao_0,Charles K Kao,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.62614393,-0.00014504045
+BarryCohen_5,Barry Cohen,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5379058,0.06060338
+JackHanna_15,Jack Hanna,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.54353994,0.06947763
+JackHanna_10,Jack Hanna,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.48412344,-0.02044782
+DennisMoore_5,Dennis Moore,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5196047,0.007556945
+thomasdorsey_0,Thomas Dorsey,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.54630846,-0.0436112
+alanramsey_10,Alan Ramsey,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.55543655,0.06958102
+TedTurner_5,Ted Turner,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.59142774,0.002553776
+TedTurner_0,Ted Turner,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.5411411,0.016385898
+galesayers_5_1,Gale Sayers,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.55025727,-0.00636857
+galesayers_5_2,Gale Sayers,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5662214,0.046440214
+galesayers_0,Gale Sayers,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5248389,-0.0076284558
+EvelynKeyes_10,Evelyn Keyes,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4343233,0.04498069
+EvelynKeyes_0,Evelyn Keyes,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.35894614,0.05374281
+DavidMilch_10,David Milch,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.44018528,0.04184264
+DavidMilch_15,David Milch,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.49800304,-0.05075187
+CharlesBronson_15,Charles Bronson,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5318145,0.09136252
+CharlesBronson_10,Charles Bronson,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.43736422,0.100403994
+IrisMurdoch_10,Iris Murdoch,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.48994163,0.035965383
+IrisMurdoch_5,Iris Murdoch,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.52933425,0.02460061
+RichardGwyn_0,Richard Gwyn,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5170621,-0.0038372427
+RichardGwyn_5,Richard Gwyn,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5000602,0.03912346
+OmarSharif_0,Omar Sharif,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.41256186,0.11795585
+OmarSharif_10,Omar Sharif,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.49342692,0.01885812
+TonyBennett_15,Tony Bennett,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.4230438,-0.117554404
+TonyBennett_0,Tony Bennett,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.3813615,0.1327467
+GregFingersTaylor_10,Greg Fingers Taylor,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.535268,-0.008214101
+JimNeidhart_10,Jim Neidhart,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.49500516,0.00020954758
+JimNeidhart_15,Jim Neidhart,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.49047318,-0.039982602
+JimNeidhart_0,Jim Neidhart,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.53447413,-0.02960921
+peterreveen_15,Peter Reveen,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.42910352,-0.031328835
+StellaStevens_15,Stella Stevens,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.40502554,0.052157894
+patpariseau_10_1,Pat Pariseau,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5192891,-0.016781107
+patpariseau_10_2,Pat Pariseau,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5141242,0.041079774
+TeresaGorman_10,Teresa Gorman,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5463753,-0.014212646
+TonyParkes_5,Tony Parkes,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.48203132,0.038462296
+TonyParkes_10,Tony Parkes,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5067022,-0.023556031
+TerryPratchett_0,Terry Pratchett,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5154797,0.040520817
+TerryPratchett_5,Terry Pratchett,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.44175652,0.024712525
+ronano'rahilly_15_2,Ronan O'Rahilly,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.53804255,0.04810311
+ronano'rahilly_15_1,Ronan O'Rahilly,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5026758,-0.0039044097
+georgerobb_10,George Robb,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.48755184,0.031477384
+jessehelms_0,Jesse Helms,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.6399743,0.037861854
+jessehelms_5_2,Jesse Helms,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.52874506,0.009068631
+jessehelms_5_1,Jesse Helms,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.56766903,0.032904148
+leonredbone_15,Leon Redbone,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.55299294,0.014195412
+UnitaBlackwell_15,Unita Blackwell,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5333619,-0.019383423
+RobertAnderson_10,Robert Anderson,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3299424,0.13014585
+JackWebster_10,Jack Webster,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5298685,0.1037599
+JackWebster_5,Jack Webster,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.55534446,-0.02530308
+StanBowles_5,Stan Bowles,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.60871387,-0.015062906
+ralphklein_5_2,Ralph Klein,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5638335,0.035425752
+ralphklein_5_1,Ralph Klein,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.59429073,0.074000195
+woodydurham_0_2,Woody Durham,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.61638,0.07860489
+TrevorPeacock_5,Trevor Peacock,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4028834,0.0734189
+BenBradlee_15,Ben Bradlee,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.43634647,0.06272994
+BenBradlee_5,Ben Bradlee,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.48977822,-0.06745042
+JeanneLittle_10,Jeanne Little,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.4024595,-0.010284394
+SparkyAnderson_0,Sparky Anderson,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.43788567,0.045047715
+RayDolby_0,Ray Dolby,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5070671,-0.017859042
+RayDolby_10,Ray Dolby,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.609854,-0.035314046
+RonaldReagan_5,Ronald Reagan,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.43486208,0.058695972
+RonaldReagan_10,Ronald Reagan,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5565744,-0.0002689734
+DonLane_0,Don Lane,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.42065915,0.05845733
+ianmccaskill_15,Ian McCaskill,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.519909,0.028974675
+AbeBurrows_5,Abe Burrows,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.44418713,0.113428354
+PeterMax_10,Peter Max,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.40064028,0.074676946
+PeterMax_15,Peter Max,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4480484,0.064805
+RobertWagner_3,Robert Wagner,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.40884846,0.1408789
+RobertWagner_2,Robert Wagner,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.34749925,0.050668046
+Mel brooks_3,Mel brooks,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.43389598,0.023307748
+Mel brooks_2,Mel brooks,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3205416,0.05352372
+Mel brooks_1,Mel brooks,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.278255,0.091742754
+TerryRiley_3,Terry Riley,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3800844,0.08735663
+TerryRiley_2,Terry Riley,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3592103,0.00092063844
+YokoOno_2,Yoko Ono,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.54128575,0.021384455
+YokoOno_1,Yoko Ono,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.35896713,0.052561596
+YokoOno_3,Yoko Ono,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.384114,0.0101971775
+Kirk Douglas_1,Kirk Douglas,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.36567524,0.03471753
+Kirk Douglas_2,Kirk Douglas,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.3559866,0.046296433
+Kirk Douglas_3,Kirk Douglas,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.43144104,0.0752404
+Warren Buffett_1,Warren Buffett,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5491686,0.042386577
+WarrenBuffett_3,Warren Buffett,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4943702,0.054036573
+Warren Buffett_2,Warren Buffett,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.50439566,-0.02288904
+Judi Dench_3,Judi Dench,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3772971,0.002332732
+Judi Dench_2,Judi Dench,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4042917,0.001403302
+HarryBelafonte_2,Harry Belafonte,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.5136496,0.036693007
+HarryBelafonte_3,Harry Belafonte,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.5518358,0.05963303
+HarryBelafonte_1,Harry Belafonte,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.45243332,-0.007603213
+JerryLewis3,Jerry Lewis,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.42025647,0.027323961
+JerryLewis2,Jerry Lewis,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3686026,0.131083
+JerryLewis1,Jerry Lewis,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.37308735,0.07725312
+DominicChianese_3,Dominic Chianese,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4550948,0.070217624
+christopher plummer_3,Christopher Plummer,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3534917,0.020197295
+christopher plummer_1,Christopher Plummer,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.28472403,0.090318516
+christopher plummer_2,Christopher Plummer,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.35751617,0.042055875
+MichaelDukakis_3,Michael Dukakis,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4663878,-0.0075326934
+MichaelDukakis_1,Michael Dukakis,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.37132102,0.064861745
+RupertMurdoch_1,Rupert Murdoch,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.48720682,-0.024198435
+RupertMurdoch_3,Rupert Murdoch,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.40518093,-0.008496866
+RupertMurdoch_2,Rupert Murdoch,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.41542903,0.015425786
+Jimmy carter_3,Jimmy Carter,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.42524293,0.047688395
+Jimmy carter_2,Jimmy Carter,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.40167174,0.009235613
+MaxvonSydow_1,Max von Sydow,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.358019,0.076591656
+MaxvonSydow_3,Max von Sydow,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.29834303,0.1099717
+james earl jones_2,James Earl Jones,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3838807,0.037260234
+james earl jones_1,James Earl Jones,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.37289888,0.08041896
+WilliamShatner_3,William Shatner,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4322058,0.05207096
+WilliamShatner_1,William Shatner,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.40098286,0.07997291
+WilliamShatner_2,William Shatner,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.442947,-0.009624355
+RichardDonner_2,Richard Donner,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.27143034,0.12257379
+RichardDonner_3,Richard Donner,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.39397705,0.11922027
+Angela Lansbury_1,Angela Lansbury,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4234602,0.015495911
+Angela Lansbury_3,Angela Lansbury,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3236377,0.021569118
+Angela Lansbury_2,Angela Lansbury,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.48420078,-0.007590577
+DavidMcCallum_1,David McCallum,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.3339346,0.13476862
+DavidMcCallum_3,David McCallum,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.50266826,0.008471362
+MartinLandau_2,Martin Landau,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.33659184,0.06559403
+MartinLandau_1,Martin Landau,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3850032,0.063917816
+MartinLandau_3,Martin Landau,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.38016224,0.08177905
+SophiaLoren_2,Sophia Loren,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.39629993,0.0045145527
+SophiaLoren_1,Sophia Loren,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.31187105,0.07530169
+JaneFonda_3,Jane Fonda,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.44877392,0.008711226
+Jane Fonda_1,Jane Fonda,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.4239745,-0.041353166
+HankAaron_1,Hank Aaron,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5121655,-0.08086512
+HankAaron_3,Hank Aaron,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4849448,0.14192781
+HankAaron_2,Hank Aaron,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.37961718,0.084546134
+Clint Eastwood_1,Clint Eastwood,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5090719,-0.011779487
+Clint Eastwood_3,Clint Eastwood,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.41909698,0.07376243
+Clint Eastwood_2,Clint Eastwood,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.383061,0.054411367
+MilosForman_3,Milos Forman,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.34888926,0.08813356
+MilosForman_1,Milos Forman,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.34770313,0.08921914
+MilosForman_2,Milos Forman,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3602993,0.05849664
+dick van dyke_1,Dick van Dyke,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4147208,0.04586421
+dick van dyke_3,Dick van Dyke,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.34339076,0.040088326
+JohnnyMathis_3,Johnny Mathis,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.441321,-0.030173808
+Johnny Mathis_2,Johnny Mathis,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.35642755,0.043249846
+Michael Caine_3,Michael Caine,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3578594,0.073725
+Michael Caine_1,Michael Caine,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.42938572,-0.048054315
+Michael Caine_2,Michael Caine,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.36208987,0.047494337
+SteveReich_2,Steve Reich,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.44642207,0.027947485
+SteveReich_3,Steve Reich,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.3945126,0.0344619
+Burt Bacharach_3,Burt Bacharach,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.46817124,0.025393099
+Burt Bacharach_2,Burt Bacharach,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.34727263,0.11639801
+Burt Bacharach_1,Burt Bacharach,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.41499358,0.065670505
+JohnWilliams_2,John Williams,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.38334295,0.015076436
+JohnWilliams_3,John Williams,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.37037274,0.035910204
+JohnWilliams_1,John Williams,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.363139,0.08684605
+JoanCollins_1,Joan Collins,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3207692,0.04358755
+JoanCollins_2,Joan Collins,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.35453364,-0.012291707
+JoanCollins_3,Joan Collins,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.44844094,0.0032659248
+BobDole_2,Bob Dole,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.52846646,0.031139031
+BobDole_3,Bob Dole,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4499747,0.024975099
+BobDole_1,Bob Dole,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4485028,0.11726323
+PeterLupus_2,Peter Lupus,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.43153852,0.045261785
+GeneHackman_2,Gene Hackman,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3709116,0.08546008
+GeneHackman_1,Gene Hackman,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3657285,0.014492139
+GeneHackman_3,Gene Hackman,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3217128,0.05846384
+RobertDuvall_3,Robert Duvall,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.4707271,0.08825882
+RobertDuvall_1,Robert Duvall,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.42820135,0.13991252
+RobertDuvall_2,Robert Duvall,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.37315428,0.16076927
+RogerMoore_3,Roger Moore,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.40424073,0.019229293
+RogerMoore_1,Roger Moore,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.31380552,0.01209534
+RogerMoore_2,Roger Moore,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.4272315,0.05038804
+DickVanPatten_3,Dick van Patten,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3552623,0.107024446
+DickVanPatten_1,Dick van Patten,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.28358203,0.11775619
+AlanArkin_3,Alan Arkin,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.33840188,0.04503171
+AlanArkin_1,Alan Arkin,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.40112123,0.09767784
+bobbarker_2,Bob Barker,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.46964103,0.007581562
+bobbarker_3,Bob Barker,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.57466626,0.060078144
+David Attenboroug_3,David Attenboroug,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.47713003,0.0040335506
+BuddyGuy_2,Buddy Guy,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.4977144,-0.019893609
+BuddyGuy_3,Buddy Guy,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.54290974,-0.022236153
+sidney poiter_2,Sidney Poiter,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.46335313,0.05539307
+sidney poiter_1,Sidney Poiter,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.5101516,-0.026545286
+sidney poiter_3,Sidney Poiter,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.43726623,0.037320346
+KarlLagerfeld_2,Karl Lagerfeld,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.43871728,0.072871074
+KarlLagerfeld_3,Karl Lagerfeld,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.40160647,0.029506803
+NanaMouskouri_1,Nana Mouskouri,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.32758525,-0.013520859
+NanaMouskouri_3,Nana Mouskouri,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.33571216,-0.032285523
+Betty White_2,Betty White,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.32798937,-0.017690316
+Betty White_1,Betty White,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.31309107,0.016159862
+Betty White_3,Betty White,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.37925795,0.005388826
+WalterMondale_3,Walter Mondale,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.50352037,0.0008021444
+RosalynnCarter_1,Rosalynn Carter,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.38588694,0.0334194
+RosalynnCarter_3,Rosalynn Carter,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.44924605,0.006586954
+RosalynnCarter_2,Rosalynn Carter,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.40400618,0.064633444
+BobNewhart_2,Bob Newhart,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.33961055,0.13917409
+BobNewhart_3,Bob Newhart,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.38994086,0.072795436
+JimmyCalderwood_5,Jimmy Calderwood,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.4971497,0.027659126
+vivnicholson_5,Viv Nicholson,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.49999082,0.0099610835
+IanHolm_2,Ian Holm,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.42141333,0.049998194
+CharmianCarr_15,Charmian Carr,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.31290928,-0.0038065314
+CharmianCarr_5,Charmian Carr,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.33361602,0.029008806
+annettemichelson_15,Annette Michelson,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.51308084,0.033680215
+BillBuckner_5,Bill Buckner,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4263799,0.009725481
+BillBuckner_10,Bill Buckner,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.46655497,0.017791063
+BillBuckner_15,Bill Buckner,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.53657633,0.005914904
+bbking_10,B B King,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.50743705,0.0111668855
+bbking_15,B B King,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.42546934,0.015620731
+bbking_0,B B King,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4003363,0.08569956
+JonathanMiller_5,Jonathan Miller,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.41492614,0.03800252
+ErnieSigley_15,Ernie Sigley,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.5743118,-0.030299895
+JoeConley_0,Joe Conley,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4461684,0.07424259
+LeroneBennettJr_10,Lerone Bennett Jr,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.64156115,0.025962397
+JimmyFratianno_0,Jimmy Fratianno,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.48736987,0.091064975
+CaseyKasem_5,Casey Kasem,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.49804497,0.07211231
+CaseyKasem_15,Casey Kasem,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.46895695,0.038915575
+EstelleGetty_15,Estelle Getty,1,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4116532,-0.002559267
+BillWyman_1,Bill Wyman,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.37750986,0.105411366
+BillWyman_3,Bill Wyman,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.37905073,0.09776211
+BillWyman_2,Bill Wyman,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.40240103,0.03570552
+Stan Lee_3,Stan Lee,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.52340347,-0.018317804
+Stan Lee_2,Stan Lee,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.42576876,-0.019563168
+Stan Lee_1,Stan Lee,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.39286894,0.026257567
+Prince Philip_2,Prince Philip,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.4975793,0.052346945
+Prince Philip_3,Prince Philip,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.37426984,0.015325479
+Prince Philip_1,Prince Philip,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.39341015,0.018757708
+GeorgeHWBush_3,George H W Bush,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.4874812,0.053622425
+GeorgeHWBush_2,George H W Bush,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,test,0.5373398,-0.0065076873
+Morgen Freeman_1,Morgen Freeman,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5022436,0.025713928
+Morgen Freeman_3,Morgen Freeman,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.45976958,0.008460164
+Morgen Freeman_2,Morgen Freeman,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.46080098,0.047057435
+DonaldSutherland_3,Donald Sutherland,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.33875006,0.14226577
+DonaldSutherland_2,Donald Sutherland,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.25981152,0.12504058
+DonaldSutherland_1,Donald Sutherland,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.21300752,0.16966124
+JeanneMoreau_3,Jeanne Moreau,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.41149998,0.057171002
+JeanneMoreau_1,Jeanne Moreau,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.36605242,0.020192064
+DickCavett_1,Dick Cavett,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.36751798,0.040747657
+DickCavett_3,Dick Cavett,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.34997764,0.034820944
+Queen Elisabeth_3,Queen Elisabeth,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.46233454,0.000491187
+AnthonyHopkins_1,Anthony Hopkins,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3563082,0.07507484
+AnthonyHopkins_2,Anthony Hopkins,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.3723621,0.044489503
+AnthonyHopkins_3,Anthony Hopkins,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.45919785,0.028931975
+CharlesAznavour_3,Charles Aznavour,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.41400078,0.041135117
+CharlesAznavour_1,Charles Aznavour,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.41265696,0.07513444
+CharlesAznavour_2,Charles Aznavour,0,0,3,V_text,V_text_s0_f3_v2,V_text_s0_f3_v2,train,0.5125333,-0.024957485

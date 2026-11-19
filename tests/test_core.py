@@ -16,6 +16,9 @@ def test_speaker_disjoint_folds():
 
 
 def test_model_loss():
-    net = FusionNet({"a": 8, "t": 5})
-    g, p, _ = net({"a": torch.randn(4, 8), "t": torch.randn(4, 5)})
-    assert joint_loss(g, torch.ones(4), p[:2], p[2:]).item() > 0
+    net = FusionNet(feat_dim=8, wavlm_dim=4, bert_dim=5)
+    g, p = net(torch.randn(4, 8), torch.randn(4, 4), torch.randn(4, 5))
+    loss = joint_loss(g, p, torch.ones(4), [(0, 1)], [0, 1, 2, 3])
+    assert torch.isfinite(loss) and loss.item() > 0
+    loss.backward()
+    assert net.prog_head.weight.grad.norm() > 0

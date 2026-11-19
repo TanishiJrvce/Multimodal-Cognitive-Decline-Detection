@@ -1,0 +1,283 @@
+{
+  "model_summary": {
+    "V_audio": {
+      "auc_mean": 0.6215575596816977,
+      "auc_std": 0.08076476797277916,
+      "bac_mean": 0.5801389920424403,
+      "bac_std": 0.061650293411777926,
+      "speaker_auc_mean": 0.6219500034279446,
+      "speaker_auc_std": 0.10718222415214401,
+      "speaker_bac_mean": 0.5823850610174139,
+      "speaker_bac_std": 0.07505692328146674
+    },
+    "V_cls": {
+      "auc_mean": 0.6366929089301503,
+      "auc_std": 0.07861713919243897,
+      "bac_mean": 0.585090008841733,
+      "bac_std": 0.07234811505842464,
+      "speaker_auc_mean": 0.644114184834773,
+      "speaker_auc_std": 0.10026961261981625,
+      "speaker_bac_mean": 0.6148287056081173,
+      "speaker_bac_std": 0.09091578462443678
+    },
+    "V_feat": {
+      "auc_mean": 0.5345222281167108,
+      "auc_std": 0.07156312055961722,
+      "bac_mean": 0.5168519893899205,
+      "bac_std": 0.035873467695963356,
+      "speaker_auc_mean": 0.5403869806663925,
+      "speaker_auc_std": 0.0989423646907576,
+      "speaker_bac_mean": 0.5385305429864253,
+      "speaker_bac_std": 0.05970749705731545
+    },
+    "V_joint": {
+      "auc_mean": 0.6279709991158267,
+      "auc_std": 0.09709889162466778,
+      "bac_mean": 0.5718185676392573,
+      "bac_std": 0.08043265295087655,
+      "speaker_auc_mean": 0.6376993178390237,
+      "speaker_auc_std": 0.11482439942680003,
+      "speaker_bac_mean": 0.5959201974496092,
+      "speaker_bac_std": 0.09897059868510287
+    },
+    "V_text": {
+      "auc_mean": 0.5843027409372237,
+      "auc_std": 0.06999935470054208,
+      "bac_mean": 0.5400194518125552,
+      "bac_std": 0.06494547114835562,
+      "speaker_auc_mean": 0.5989331550802138,
+      "speaker_auc_std": 0.08593335978164153,
+      "speaker_bac_mean": 0.5535812765665706,
+      "speaker_bac_std": 0.07739720678703065
+    }
+  },
+  "contrast": {
+    "mean_difference": -0.008721909814323612,
+    "wins": 10,
+    "positive_seed_means": 2,
+    "seed_min": -0.03091777188328909,
+    "seed_max": 0.011475154730327142,
+    "heuristic_low": -0.06920412409958496,
+    "heuristic_high": 0.05176030447093774
+  },
+  "temporal": [
+    {
+      "experiment": "V_audio",
+      "split": "test",
+      "n_speakers": 31,
+      "evaluations": 155,
+      "concordance": 0.5376344086021506,
+      "low": 0.458010752688172,
+      "high": 0.6193548387096774,
+      "endpoint": 0.5483870967741936,
+      "endpoint_low": 0.4645161290322581,
+      "endpoint_high": 0.632258064516129
+    },
+    {
+      "experiment": "V_audio",
+      "split": "train",
+      "n_speakers": 31,
+      "evaluations": 620,
+      "concordance": 0.4940860215053764,
+      "low": 0.4575268817204301,
+      "high": 0.5284946236559139,
+      "endpoint": 0.4951612903225807,
+      "endpoint_low": 0.45806451612903226,
+      "endpoint_high": 0.532258064516129
+    },
+    {
+      "experiment": "V_cls",
+      "split": "test",
+      "n_speakers": 31,
+      "evaluations": 155,
+      "concordance": 0.48387096774193544,
+      "low": 0.41075268817204297,
+      "high": 0.5655913978494623,
+      "endpoint": 0.4967741935483871,
+      "endpoint_low": 0.4193548387096775,
+      "endpoint_high": 0.5741935483870968
+    },
+    {
+      "experiment": "V_cls",
+      "split": "train",
+      "n_speakers": 31,
+      "evaluations": 620,
+      "concordance": 0.4672043010752689,
+      "low": 0.4268682795698925,
+      "high": 0.5064516129032258,
+      "endpoint": 0.4612903225806452,
+      "endpoint_low": 0.4193548387096775,
+      "endpoint_high": 0.5000000000000001
+    },
+    {
+      "experiment": "V_feat",
+      "split": "test",
+      "n_speakers": 31,
+      "evaluations": 155,
+      "concordance": 0.5290322580645161,
+      "low": 0.44516129032258056,
+      "high": 0.6129032258064516,
+      "endpoint": 0.5225806451612904,
+      "endpoint_low": 0.432258064516129,
+      "endpoint_high": 0.6064516129032259
+    },
+    {
+      "experiment": "V_feat",
+      "split": "train",
+      "n_speakers": 31,
+      "evaluations": 620,
+      "concordance": 0.46505376344086025,
+      "low": 0.4274193548387097,
+      "high": 0.5021505376344085,
+      "endpoint": 0.4645161290322581,
+      "endpoint_low": 0.42580645161290326,
+      "endpoint_high": 0.5016129032258064
+    },
+    {
+      "experiment": "V_joint",
+      "split": "test",
+      "n_speakers": 31,
+      "evaluations": 155,
+      "concordance": 0.7032258064516129,
+      "low": 0.5913978494623656,
+      "high": 0.8086021505376345,
+      "endpoint": 0.7225806451612904,
+      "endpoint_low": 0.6064516129032258,
+      "endpoint_high": 0.832258064516129
+    },
+    {
+      "experiment": "V_joint",
+      "split": "train",
+      "n_speakers": 31,
+      "evaluations": 620,
+      "concordance": 0.9333333333333331,
+      "low": 0.9161290322580642,
+      "high": 0.9499999999999998,
+      "endpoint": 0.9370967741935482,
+      "endpoint_low": 0.9193548387096773,
+      "endpoint_high": 0.9548387096774191
+    },
+    {
+      "experiment": "V_text",
+      "split": "test",
+      "n_speakers": 31,
+      "evaluations": 155,
+      "concordance": 0.49677419354838703,
+      "low": 0.41935483870967744,
+      "high": 0.578494623655914,
+      "endpoint": 0.5032258064516129,
+      "endpoint_low": 0.4193548387096775,
+      "endpoint_high": 0.5870967741935483
+    },
+    {
+      "experiment": "V_text",
+      "split": "train",
+      "n_speakers": 31,
+      "evaluations": 620,
+      "concordance": 0.47204301075268823,
+      "low": 0.42580645161290315,
+      "high": 0.5204301075268818,
+      "endpoint": 0.47258064516129034,
+      "endpoint_low": 0.42576612903225797,
+      "endpoint_high": 0.5225806451612904
+    }
+  ],
+  "permutation": {
+    "n_speakers": 31,
+    "concordance": 0.7032258064516129,
+    "one_sided_p": 0.0011998800119988001,
+    "two_sided_p": 0.0020997900209979003
+  },
+  "ensemble": [
+    {
+      "model": "V_audio",
+      "auc": 0.6487704918032786,
+      "low": 0.5588114754098361,
+      "high": 0.7360706967213113,
+      "bac": 0.6219262295081966
+    },
+    {
+      "model": "V_cls",
+      "auc": 0.6799180327868853,
+      "low": 0.5864754098360656,
+      "high": 0.7668084016393442,
+      "bac": 0.6434426229508197
+    },
+    {
+      "model": "V_feat",
+      "auc": 0.558811475409836,
+      "low": 0.46229508196721314,
+      "high": 0.6563524590163935,
+      "bac": 0.5133196721311475
+    },
+    {
+      "model": "V_joint",
+      "auc": 0.684016393442623,
+      "low": 0.5911885245901639,
+      "high": 0.770496926229508,
+      "bac": 0.6535860655737705
+    },
+    {
+      "model": "V_text",
+      "auc": 0.617827868852459,
+      "low": 0.5213063524590164,
+      "high": 0.7090215163934425,
+      "bac": 0.6184426229508196
+    },
+    {
+      "model": "quality_RF",
+      "auc": 0.6667008196721311,
+      "low": 0.5747899590163934,
+      "high": 0.7543032786885245,
+      "bac": 0.6641393442622952
+    }
+  ],
+  "rate": [
+    {
+      "component": "log_r",
+      "mean_log_change": -0.0946288348474946,
+      "low": -0.18735327049612965,
+      "high": -0.006404260685080494,
+      "percent": -9.028947534088068,
+      "p": 0.04789521047895211,
+      "q": 0.07132620071326201
+    },
+    {
+      "component": "log_a",
+      "mean_log_change": -0.08535620004132602,
+      "low": -0.16780322479644702,
+      "high": -0.0019034875909782866,
+      "percent": -8.181483144940643,
+      "p": 0.05349465053494651,
+      "q": 0.07132620071326201
+    },
+    {
+      "component": "log_nonpause",
+      "mean_log_change": -0.009272634806168549,
+      "low": -0.05203639557583049,
+      "high": 0.02939037299260399,
+      "percent": -0.9229776500149658,
+      "p": 0.672932706729327,
+      "q": 0.672932706729327
+    },
+    {
+      "component": "log_duration",
+      "mean_log_change": -0.3850385062835532,
+      "low": -0.6531131996894283,
+      "high": -0.11168056240569459,
+      "percent": -31.957556491609683,
+      "p": 0.0115988401159884,
+      "q": 0.0463953604639536
+    }
+  ],
+  "k_counts": {
+    "1": 24,
+    "2": 1
+  },
+  "attribution_ratio": 1.3991255054513971,
+  "n_verified_models": 125,
+  "n_oof_predictions": 6875,
+  "n_same_model_scores": 34375,
+  "n_shap_recordings": 1375,
+  "max_rate_identity_error": 1.3322676295501878e-15
+}
