@@ -1,0 +1,57 @@
+speaker,recording,rank,order_basis,split
+David Prowse,DavidProwse_10,2,suffix_bucket_unverified,train
+David Prowse,DavidProwse_5,3,suffix_bucket_unverified,train
+David Prowse,DavidProwse_0,4,suffix_bucket_unverified,train
+Peter Falk,PeterFalk_10,2,suffix_bucket_unverified,train
+Peter Falk,PeterFalk_15,1,suffix_bucket_unverified,train
+Paul Hornung,paulhornung_10,2,suffix_bucket_unverified,train
+Paul Hornung,paulhornung_0,4,suffix_bucket_unverified,train
+Andrew Sachs,andrewsachs_15,1,suffix_bucket_unverified,train
+Andrew Sachs,andrewsachs_10,2,suffix_bucket_unverified,train
+Tim Conway,TimConway_5,3,suffix_bucket_unverified,train
+Tim Conway,TimConway_10,2,suffix_bucket_unverified,train
+Jack Hanna,JackHanna_15,1,suffix_bucket_unverified,train
+Jack Hanna,JackHanna_10,2,suffix_bucket_unverified,train
+Ted Turner,TedTurner_5,3,suffix_bucket_unverified,train
+Ted Turner,TedTurner_0,4,suffix_bucket_unverified,train
+Evelyn Keyes,EvelynKeyes_10,2,suffix_bucket_unverified,train
+Evelyn Keyes,EvelynKeyes_0,4,suffix_bucket_unverified,train
+David Milch,DavidMilch_10,2,suffix_bucket_unverified,train
+David Milch,DavidMilch_15,1,suffix_bucket_unverified,train
+Charles Bronson,CharlesBronson_15,1,suffix_bucket_unverified,train
+Charles Bronson,CharlesBronson_10,2,suffix_bucket_unverified,train
+Iris Murdoch,IrisMurdoch_10,2,suffix_bucket_unverified,train
+Iris Murdoch,IrisMurdoch_5,3,suffix_bucket_unverified,train
+Richard Gwyn,RichardGwyn_0,4,suffix_bucket_unverified,train
+Richard Gwyn,RichardGwyn_5,3,suffix_bucket_unverified,train
+Omar Sharif,OmarSharif_0,4,suffix_bucket_unverified,train
+Omar Sharif,OmarSharif_10,2,suffix_bucket_unverified,train
+Tony Bennett,TonyBennett_15,1,suffix_bucket_unverified,train
+Tony Bennett,TonyBennett_0,4,suffix_bucket_unverified,train
+Jim Neidhart,JimNeidhart_10,2,suffix_bucket_unverified,train
+Jim Neidhart,JimNeidhart_15,1,suffix_bucket_unverified,train
+Jim Neidhart,JimNeidhart_0,4,suffix_bucket_unverified,train
+Tony Parkes,TonyParkes_5,3,suffix_bucket_unverified,train
+Tony Parkes,TonyParkes_10,2,suffix_bucket_unverified,train
+Terry Pratchett,TerryPratchett_0,4,suffix_bucket_unverified,train
+Terry Pratchett,TerryPratchett_5,3,suffix_bucket_unverified,train
+Jack Webster,JackWebster_10,2,suffix_bucket_unverified,train
+Jack Webster,JackWebster_5,3,suffix_bucket_unverified,train
+Ben Bradlee,BenBradlee_15,1,suffix_bucket_unverified,train
+Ben Bradlee,BenBradlee_5,3,suffix_bucket_unverified,train
+Ray Dolby,RayDolby_0,4,suffix_bucket_unverified,train
+Ray Dolby,RayDolby_10,2,suffix_bucket_unverified,train
+Ronald Reagan,RonaldReagan_5,3,suffix_bucket_unverified,train
+Ronald Reagan,RonaldReagan_10,2,suffix_bucket_unverified,train
+Peter Max,PeterMax_10,2,suffix_bucket_unverified,train
+Peter Max,PeterMax_15,1,suffix_bucket_unverified,train
+Charmian Carr,CharmianCarr_15,1,suffix_bucket_unverified,valid
+Charmian Carr,CharmianCarr_5,3,suffix_bucket_unverified,valid
+Bill Buckner,BillBuckner_5,3,suffix_bucket_unverified,valid
+Bill Buckner,BillBuckner_10,2,suffix_bucket_unverified,valid
+Bill Buckner,BillBuckner_15,1,suffix_bucket_unverified,valid
+B B King,bbking_10,2,suffix_bucket_unverified,valid
+B B King,bbking_15,1,suffix_bucket_unverified,valid
+B B King,bbking_0,4,suffix_bucket_unverified,valid
+Casey Kasem,CaseyKasem_5,3,suffix_bucket_unverified,valid
+Casey Kasem,CaseyKasem_15,1,suffix_bucket_unverified,valid
