@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+torch
+scipy
+shap
+matplotlib
+pyyaml
+# real-data feature extraction (not needed for mock mode)
+transformers
+librosa
+opensmile
+spacy

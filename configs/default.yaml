@@ -1,0 +1,9 @@
+mock: true            # true = synthetic data, no downloads
+manifest: data/raw/manifest.csv   # cols: speaker,audio_path,transcript,label,mmse,age,gender
+feature_dir: data/features
+n_folds: 5            # 10 for real data
+seed: 42
+epochs: 60
+lr: 0.001
+hidden: 64
+dropout: 0.3
