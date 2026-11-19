@@ -1,0 +1,6 @@
+check,passed
+HC3 coefficient agrees with least-squares contrast,True
+31 unique endpoint speakers (expected >=10),True
+log-rate decomposition additive,True
+V1 SHAP values loaded (not V0),True
+V1 progression scores from held-out predictions only,True

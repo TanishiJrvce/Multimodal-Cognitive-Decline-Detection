@@ -1,0 +1,6 @@
+experiment,orig_auc_mean,orig_auc_std,orig_bac_mean,orig_bac_std,v1_auc_mean,v1_auc_std,v1_bac_mean,v1_bac_std,auc_delta,reason_changed
+V_audio,0.6359,0.0978,0.6068,0.0711,0.6231,0.0864,0.5814,0.0676,-0.0128,modality_mask+fold_local_screening+inner_split+same_bucket_pairs
+V_cls,0.6562,0.0966,0.6148,0.0705,0.6386,0.0842,0.5821,0.0766,-0.0176,modality_mask+fold_local_screening+inner_split+same_bucket_pairs
+V_feat,0.5,0.0,0.5,0.0,0.5429,0.0743,0.5093,0.0471,0.0429,modality_mask+fold_local_screening+inner_split+same_bucket_pairs
+V_joint,0.6654,0.0879,0.6224,0.0682,0.6366,0.096,0.5744,0.084,-0.0288,modality_mask+fold_local_screening+inner_split+same_bucket_pairs
+V_text,0.6087,0.0884,0.5763,0.0779,0.5926,0.0888,0.5538,0.0698,-0.0161,modality_mask+fold_local_screening+inner_split+same_bucket_pairs
