@@ -34,14 +34,14 @@ Path("figures").mkdir(parents=True, exist_ok=True)
 # ── Load ───────────────────────────────────────────────────────────────────────
 feat_list = json.load(open("data/processed/feature_list.json"))
 df = pd.read_csv("data/processed/features_screened.csv")
-df["label"] = (df["group"] == "dementia").astype(int)
+# 'label' is already 0/1 int
 quality = pd.read_csv("data/processed/quality.csv")
 manifest = pd.read_csv("data/processed/manifest.csv")
 
 # Merge subgroup info
-df = df.merge(manifest[["file","gender","ethnicity","dementia_type"]],
+df = df.merge(manifest[["file","gender","ethnicity","dementia type"]],
               on="file", how="left", suffixes=("","_m"))
-df = df.merge(quality[["file","snr_db","loudness_lufs"]],
+df = df.merge(quality[["file","snr_db","loudness_dbfs"]],
               on="file", how="left", suffixes=("","_q"))
 df["quality_tertile"] = pd.qcut(df["snr_db"].fillna(df["snr_db"].median()),
                                 q=3, labels=["low","mid","high"])
@@ -55,13 +55,18 @@ print("Computing SHAP values on RF baseline …")
 cv = StratifiedGroupKFold(n_splits=N_FOLDS, shuffle=True, random_state=0)
 tr_idx, va_idx = next(cv.split(X, y, groups))
 
-rf = RandomForestClassifier(n_estimators=200, random_state=0, n_jobs=-1)
+rf = RandomForestClassifier(n_estimators=200, random_state=0, n_jobs=1)
 rf.fit(X[tr_idx], y[tr_idx])
 
 explainer = shap.TreeExplainer(rf)
 shap_vals = explainer.shap_values(X[va_idx])
-# shap_vals is list[ndarray]; take class 1 (dementia)
-sv = shap_vals[1] if isinstance(shap_vals, list) else shap_vals
+# shap 0.52 returns ndarray (samples, features, classes) or list; normalise to (samples, features) for class 1
+if isinstance(shap_vals, np.ndarray) and shap_vals.ndim == 3:
+    sv = shap_vals[:, :, 1]
+elif isinstance(shap_vals, list):
+    sv = shap_vals[1]
+else:
+    sv = shap_vals
 
 shap_df = pd.DataFrame(sv, columns=feat_list)
 shap_df["file"] = df_clean["file"].values[va_idx]
@@ -138,6 +143,7 @@ print(f"  Speaker-level AUC: {spk_res['auc_speaker'].mean():.4f} ± "
 # ── 3. Temporal pair accuracy ──────────────────────────────────────────────────
 print("\nComputing temporal pair accuracy …")
 order_df = pd.read_csv("data/processed/recording_order.csv").dropna(subset=["rank"])
+order_df = order_df.rename(columns={"recording": "file"})  # align with features/assignments naming
 # Use progression scores from V_joint fold=0, seed=0
 asgn = pd.read_csv("data/results/states_assignments.csv")
 asgn_rep = asgn[(asgn.seed==0)&(asgn.fold==0)][["file","prog_score"]]
@@ -167,11 +173,12 @@ print("\nSubgroup analysis …")
 sub_records = []
 cv3 = StratifiedGroupKFold(n_splits=N_FOLDS, shuffle=True, random_state=0)
 tr3, va3 = next(cv3.split(X, y, groups))
-rf3 = RandomForestClassifier(n_estimators=200, random_state=0, n_jobs=-1)
+rf3 = RandomForestClassifier(n_estimators=200, random_state=0, n_jobs=1)
 rf3.fit(X[tr3], y[tr3])
 probs3 = rf3.predict_proba(X[va3])[:, 1]
 preds3 = (probs3 > 0.5).astype(int)
-meta_va = df_clean.iloc[va3][["gender","ethnicity","dementia_type","quality_tertile","label"]].copy()
+meta_va = df_clean.iloc[va3][["gender","ethnicity","dementia type","quality_tertile","label"]].copy()
+meta_va = meta_va.rename(columns={"dementia type": "dementia_type"})
 meta_va["prob"] = probs3
 meta_va["pred"] = preds3
 
@@ -203,13 +210,13 @@ for spk, grp3 in traj.groupby("speaker"):
     if n_plotted >= 6:  # only first 6 speakers with trajectories
         break
     fig, ax = plt.subplots(figsize=(5, 3))
-    x = grp3["suffix_bucket"].values
+    x = grp3["rank"].values  # use rank (1,2,3...) as x-axis since suffix_bucket not in order_df
     ax.plot(x, grp3["prog_score"].values, "o-", linewidth=2)
-    ax.set_xlabel("Years before symptom onset (approx)")
+    ax.set_xlabel("Recording order (1 = earliest)")
     ax.set_ylabel("Progression score")
     ax.set_title(f"Speaker {spk}")
     ax.set_xticks(x)
-    ax.set_xticklabels([BUCKET_LABEL.get(int(v), str(v)) for v in x])
+    ax.set_xticklabels([str(int(v)) for v in x])
     ax.invert_xaxis()  # earlier time on left
     plt.tight_layout()
     fname = f"figures/trajectory_{spk}.png"

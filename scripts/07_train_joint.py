@@ -56,7 +56,7 @@ MOD_DROP_P  = 0.2   # modality dropout probability during training
 # ── Load data ─────────────────────────────────────────────────────────────────
 feat_list = json.load(open("data/processed/feature_list.json"))
 df = pd.read_csv("data/processed/features_screened.csv")
-df["label"] = (df["group"] == "dementia").astype(int)
+# 'label' is already 0/1 int (screened CSV has it pre-converted)
 df_clean = df.dropna(subset=feat_list).copy()
 
 # Load embeddings
@@ -93,7 +93,7 @@ def make_rank_pairs(files_tr, groups_tr, y_tr, order_df):
     pairs = []
     for spk, grp in order_df.groupby("speaker"):
         grp = grp.sort_values("rank")
-        files_spk = [f for f in grp["file"].values if f in file_to_idx]
+        files_spk = [f for f in grp["recording"].values if f in file_to_idx]
         if len(files_spk) < 2:
             continue
         for a, b in zip(files_spk, files_spk[1:]):

@@ -39,7 +39,7 @@ K_RANGE = range(1, 7)
 # ── Load features and embeddings ──────────────────────────────────────────────
 feat_list = json.load(open("data/processed/feature_list.json"))
 df = pd.read_csv("data/processed/features_screened.csv")
-df["label"] = (df["group"] == "dementia").astype(int)
+# 'label' is already 0/1 int
 df_clean = df.dropna(subset=feat_list).copy()
 
 emb_idx  = pd.read_csv("data/processed/embeddings_index.csv")
@@ -116,7 +116,7 @@ for seed in SEEDS:
 
         for i, row in enumerate(df_clean.itertuples()):
             all_assignments.append(dict(
-                file=row.file, speaker=row.speaker, group=row.group,
+                file=row.file, speaker=row.speaker, label=row.label,
                 split="train" if i in set(tr_idx) else "val",
                 seed=seed, fold=fold, best_k=best_k,
                 prog_score=float(prog_np[i]),
@@ -149,7 +149,7 @@ state_stats = rep.groupby("state").agg(
     n=("file","count"),
     prog_mean=("prog_score","mean"),
     prog_std=("prog_score","std"),
-    pct_dementia=("group", lambda x: (x=="dementia").mean())
+    pct_dementia=("label", lambda x: (x==1).mean())
 ).reset_index()
 state_stats.columns = ["State","N","Prog_mean","Prog_std","Pct_dementia"]
 print("\n── State statistics (seed=0, fold=0) ──")
