@@ -1,2 +1,0 @@
-check,max_absolute_error,n_recordings
-speech_rate = articulation_rate * (1 - pause_ratio),1.7763568394002505e-15,275
